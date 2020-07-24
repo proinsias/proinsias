@@ -9,8 +9,11 @@ I'm currently the Data Science Manager at [Hospital IQ](https://github.com/hospi
 
 ## Contact Info
 
-[![LinkedIn](https://github.com/proinsias/proinsias/blob/main/icon/linkedin.png?raw=true)](https://www.linkedin.com/in/francistodonovan/)
-[![Twitter](https://github.com/proinsias/proinsias/blob/main/icon/twitter.png?raw=true)](https://twitter.com/francisodonovan/)
+<p align='center'>
+<a href="https://www.linkedin.com/in/francistodonovan/"><img height="30" src="https://github.com/proinsias/proinsias/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/francisodonovan"><img height="30" src="https://github.com/proinsias/proinsias/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+</p>
+
 
 ## My GitHub Stats
 
