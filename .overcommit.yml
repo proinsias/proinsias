@@ -73,6 +73,7 @@ PreCommit:
     enabled: true
   ForbiddenBranches:
     enabled: false
+    branch_patterns: ['main']
   HardTabs:
     enabled: true
   ImageOptim:
@@ -140,7 +141,10 @@ PostRewrite:
 PrePush:
   ProtectedBranches:
     enabled: true
+    branches:
+      - main
 
 PreRebase:
   MergedCommits:
     enabled: true
+    branches: ['main']
