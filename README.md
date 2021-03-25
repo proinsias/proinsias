@@ -6,9 +6,9 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 
 ## About Me
 
-[![Hospital IQ Badge](https://www.hospiq.com/wp-content/uploads/2020/03/HospitalIQ-LOGO-small.png)]
-
-- I'm currently the Data Science Manager at (https://github.com/hospiq/), where our goal is to improve the productivity and happiness of every healthcare worker every day.
+- I'm currently the Data Science Manager at
+  <a href="https://www.hospiq.com"><img src="https://www.hospiq.com/wp-content/uploads/2020/03/HospitalIQ-LOGO-small.png" alt="Hospital IQ" width="100"/></a>,
+  where our goal is to improve the productivity and happiness of every healthcare worker every day.
 
 - 😄 Pronouns: He/Him
 
