@@ -92,4 +92,5 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=proinsias.proinsias" alt="visitor badge"/>
+<!-- <img src="https://gpvc.arturio.dev/proinsias" alt="profile views"> -->
 </p>
