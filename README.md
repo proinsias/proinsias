@@ -18,12 +18,12 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 - 😄 Pronouns: He/Him
 
 - Skills:
-    <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-HexColor?logo=python&logoColor=#3776AB&style=ShieldStyle"/></a>
-    <a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/pandas-HexColor?logo=pandas&logoColor=#150458&style=ShieldStyle"/></a>
-    <a href="https://scikit-learn.org/stable/index.html"><img src="https://img.shields.io/badge/scikit%20learn-HexColor?logo=scikit-learn&logoColor=#F7931E&style=ShieldStyle"/></a>
-    <a href="https://www.scipy.org"><img src="https://img.shields.io/badge/scipy-HexColor?logo=scipy&logoColor=#8CAAE6&style=ShieldStyle"/></a>
-    <a href="https://git-scm.com"><img src="https://img.shields.io/badge/git-HexColor?logo=git&logoColor=#F05032&style=ShieldStyle"/></a>
-    <a href="https://spark.apache.org"><img src="https://img.shields.io/badge/Apache%20Spark-HexColor?logo=apache%20spark&logoColor=#E25A1C&style=ShieldStyle"/></a>
+    <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=ShieldStyle"/></a>
+    <a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=ShieldStyle"/></a>
+    <a href="https://scikit-learn.org/stable/index.html"><img src="https://img.shields.io/badge/scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=ShieldStyle"/></a>
+    <a href="https://www.scipy.org"><img src="https://img.shields.io/badge/scipy-8CAAE6?logo=scipy&logoColor=white&style=ShieldStyle"/></a>
+    <a href="https://git-scm.com"><img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=ShieldStyle"/></a>
+    <a href="https://spark.apache.org"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache%20spark&logoColor=white&style=ShieldStyle"/></a>
     and others.
 
 ## Contact Info
