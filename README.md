@@ -8,7 +8,7 @@ https://github.com/alekspopovic/alekspopovic/blob/main/logoOrange.png
 Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 👨‍🔬 researcher, 💻 developer, 🕷️ geek.
 
-## About Me
+## 😄 About Me
 
 - I'm currently the Data Science Manager at
   <a href="https://www.hospiq.com"><img src="https://www.hospiq.com/wp-content/uploads/2020/03/HospitalIQ-LOGO-small.png" alt="Hospital IQ" width="100"/></a>,
@@ -16,7 +16,7 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 
 - I try to post occassionally on my [personal website](https://proinsias.github.io).
 
-- 😄 Pronouns: He/Him
+- Pronouns: He/Him
 
 - Skills:
     - Data Science, Machine Learning, and Big Data:
@@ -60,16 +60,16 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Contact Info
+## 📫 Contact Info
 
-📫 How to reach me:
+How to reach me:
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/francistodonovan/"><img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 <a href="https://twitter.com/francisodonovan"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"></a>
 </p>
 
-## My GitHub Stats
+## 📑 My GitHub Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=proinsias&count_private=true&show_icons=true)
 
