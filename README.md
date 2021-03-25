@@ -3,7 +3,7 @@ FIXME:
 https://github.com/alekspopovic/alekspopovic/blob/main/logoOrange.png
 -->
 
-Hey there 👋!
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Francis!
 
 Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 👨‍🔬 researcher, 💻 developer, 🕷️ geek.
@@ -15,15 +15,6 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
   where our goal is to improve the productivity and happiness of every healthcare worker every day.
 
 - I try to post occassionally on my [personal website](https://proinsias.github.io).
-
-<!-- 
-FIXME:
-<img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/> 
-    | ResearchGate | <img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/> | `<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>`|
- | ORCID | <img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white"/> | `<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>`|
--->
-
-
 
 - 😄 Pronouns: He/Him
 
@@ -64,6 +55,10 @@ FIXME:
 
 - 🧬 I support Ethical Software Licensing – [DoNoHarm.org](https://firstdonoharm.dev/)
 
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Contact Info
 
@@ -73,11 +68,6 @@ FIXME:
 <a href="https://www.linkedin.com/in/francistodonovan/"><img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 <a href="https://twitter.com/francisodonovan"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"></a>
 </p>
-
-<!--
-FIXME:
-<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
--->
 
 ## My GitHub Stats
 
@@ -90,16 +80,14 @@ FIXME:
 <!--
 FIXME:
 
-https://github.com/othneildrew/Best-README-Template
-https://github.com/khalby786/REHeader
-https://github.com/shravan20/github-readme-quotes
-https://github.com/abhisheknaiidu/awesome-github-profile-readme
 GT OF
 https://giphy.com/gifs/DataCamp-data-science-datacamp-7c8QeB0VMddFOuu4iR
 https://giphy.com/gifs/web-shittyreactiongifs-4FQMuOKR6zQRO
 https://giphy.com/gifs/DataCamp-machine-learning-ml-datacamp-gutZ5Pm6Xl62eIf5RZ
 https://www.canva.com/design/play?category=tACZCu4vaxs&type=TAENPj_Jo5k
 https://twitter.com/TheJackForge/status/1329818490555957248
+
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
 
 <p align="center">
