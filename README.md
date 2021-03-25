@@ -13,13 +13,13 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 - 😄 Pronouns: He/Him
 
 - Skills:
-  <a href="https://www.python.org"><img src="https://simpleicons.org/icons/python.svg" alt="python" width="20"/></a>,
-  <a href="https://pandas.pydata.org"><img src="https://simpleicons.org/icons/pandas.svg" alt="pandas" width="20"/></a>,
-  <a href="https://scikit-learn.org/stable/index.html"><img src="https://simpleicons.org/icons/scikit-learn.svg" alt="scikit-learn" width="20"/></a>,
-  <a href="https://www.scipy.org"><img src="https://simpleicons.org/icons/scipy.svg" alt="scipy" width="20"/></a>,
-  <a href="https://git-scm.com"><img src="https://simpleicons.org/icons/git.svg" alt="git" width="20"/></a>,
-  <a href="https://spark.apache.org"><img src="https://simpleicons.org/icons/apachespark.svg" alt="apachespark" width="20"/></a>,
-  and others.
+    - <a href="https://www.python.org"><img src="https://simpleicons.org/icons/python.svg" alt="python" width="30"/> python</a>,
+    - <a href="https://pandas.pydata.org"><img src="https://simpleicons.org/icons/pandas.svg" alt="pandas" width="30"/> pandas</a>,
+    - <a href="https://scikit-learn.org/stable/index.html"><img src="https://simpleicons.org/icons/scikit-learn.svg" alt="scikit-learn" width="30"/> scikit-learn</a>,
+    - <a href="https://www.scipy.org"><img src="https://simpleicons.org/icons/scipy.svg" alt="scipy" width="30"/> scipy</a>,
+    - <a href="https://git-scm.com"><img src="https://simpleicons.org/icons/git.svg" alt="git" width="30"/> git</a>,
+    - <a href="https://spark.apache.org"><img src="https://simpleicons.org/icons/apachespark.svg" alt="apachespark" width="30"/> Apache Spark</a>,
+    - and others.
 
 ## Contact Info
 
