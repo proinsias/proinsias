@@ -58,6 +58,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [(TIL) Mac: Ask user for password via GUI](https://proinsias.github.io/til/Mac-Ask-user-for-password-via-gui/)
+- [(TIL) Mac: Date and Time](https://proinsias.github.io/til/Mac-Date-and-Time/)
+- [(TIL) Mac: Restart or shutdown](https://proinsias.github.io/til/Mac-Restart-or-shutdown/)
+- [(TIL) Nix: Stty - sane terminal settings](https://proinsias.github.io/til/Nix-Stty-sane-terminal-settings/)
+- [(TIL) Mac: Gatekeeper via the command line](https://proinsias.github.io/til/Mac-Gatekeeper-via-command-line/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
