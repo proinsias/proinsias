@@ -88,6 +88,11 @@ How to reach me:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#513](https://github.com/proinsias/nameshark-vcard/pull/513) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+2. 🎉 Merged PR [#512](https://github.com/proinsias/nameshark-vcard/pull/512) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+3. 🎉 Merged PR [#2](https://github.com/proinsias/mac-playbook/pull/2) in [proinsias/mac-playbook](https://github.com/proinsias/mac-playbook)
+4. 🎉 Merged PR [#220](https://github.com/proinsias/keras_tutorials/pull/220) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
+5. 🎉 Merged PR [#221](https://github.com/proinsias/keras_tutorials/pull/221) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
 <!--END_SECTION:activity-->
 
 ## 😜Here's a Joke for you:
