@@ -102,6 +102,8 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=proinsias.proinsias" alt="visitor badge"/>
-<img src="https://github.com/proinsias/proinsias/workflows/Latest%20blog%20post%20workflow/badge.svg"/>
+<img src="https://github.com/proinsias/proinsias/workflows/Add%20Latest%20Blog%20Posts/badge.svg"/>
+<img src="https://github.com/proinsias/proinsias/workflows/Add%20Recent%20Github%20Activity/badge.svg"/>
 <!-- <img src="https://gpvc.arturio.dev/proinsias" alt="profile views"> -->
 </p>
+
