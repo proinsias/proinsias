@@ -82,6 +82,11 @@ How to reach me:
 
 [GitHub Profile Summary](https://profile-summary-for-github.com/user/proinsias)
 
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!--
 FIXME:
 
