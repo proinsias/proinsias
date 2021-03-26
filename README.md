@@ -11,7 +11,7 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
   <a href="https://www.hospiq.com"><img src="https://www.hospiq.com/wp-content/uploads/2020/03/HospitalIQ-LOGO-small.png" alt="Hospital IQ" width="100"/></a>,
   where our goal is to improve the productivity and happiness of every healthcare worker every day.
 
-- I try to post occassionally on my personal [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://proinsias.github.io/).
+- I try to post occasionally on my personal [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://proinsias.github.io/).
 
 - Pronouns: He/Him
 
@@ -67,7 +67,8 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 How to reach me:
 
 <p align='center'>
-<a href="https://mailhide.io/e/fTv414zF/"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://mailhide.io/e/fTv414zF/"><img src="https://img.shields.io/badge/reveal%20email-2a8?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://keybase.io/proinsias/"><img src="https://img.shields.io/badge/keybase-33A0FF?logo=keybase&logoColor=white&style=for-the-badge"></a>
 <a href="https://www.linkedin.com/in/francistodonovan/"><img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 <a href="https://twitter.com/francisodonovan"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"></a>
 </p>
@@ -75,7 +76,7 @@ How to reach me:
 <!--
 Kaggle
 Medium
-Stackoverflow
+Stackoverflow: https://stackoverflow.com/users/1257318/proinsias/
 Others?
 -->
 
