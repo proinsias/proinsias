@@ -14,7 +14,7 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
   <a href="https://www.hospiq.com"><img src="https://www.hospiq.com/wp-content/uploads/2020/03/HospitalIQ-LOGO-small.png" alt="Hospital IQ" width="100"/></a>,
   where our goal is to improve the productivity and happiness of every healthcare worker every day.
 
-- I try to post occassionally on my [personal website](https://proinsias.github.io).
+- I try to post occassionally on my personal [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://proinsias.github.io/).
 
 - Pronouns: He/Him
 
@@ -90,6 +90,9 @@ How to reach me:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+## 😜Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
+
 <!--
 FIXME:
 
@@ -99,6 +102,10 @@ https://giphy.com/gifs/web-shittyreactiongifs-4FQMuOKR6zQRO
 https://giphy.com/gifs/DataCamp-machine-learning-ml-datacamp-gutZ5Pm6Xl62eIf5RZ
 https://www.canva.com/design/play?category=tACZCu4vaxs&type=TAENPj_Jo5k
 https://twitter.com/TheJackForge/status/1329818490555957248
+https://codesandbox.io/s/readme-introgif-9fjo5?file=/src/main.js
+https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966
+Kaggle profile?
+
 
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
