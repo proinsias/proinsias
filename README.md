@@ -120,3 +120,4 @@ https://github.com/SP-XD/SP-XD/raw/main/images/dev-working.gif?raw=true
 <!-- <img src="https://gpvc.arturio.dev/proinsias" alt="profile views"> -->
 </p>
 
+![All Models are Wrong](images/allmodelsarewrong.png)
