@@ -70,6 +70,7 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 How to reach me:
 
 <p align='center'>
+<a href="https://mailhide.io/e/fTv414zF/"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/francistodonovan/"><img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 <a href="https://twitter.com/francisodonovan"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"></a>
 </p>
@@ -82,7 +83,9 @@ How to reach me:
 
 [GitHub Profile Summary](https://profile-summary-for-github.com/user/proinsias)
 
-## Recent Activity
+[![trophy](https://github-profile-trophy.vercel.app/?username=proinsias)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
