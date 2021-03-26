@@ -1,7 +1,3 @@
-<!--
-FIXME:
-https://github.com/alekspopovic/alekspopovic/blob/main/logoOrange.png
--->
 
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Francis!
 
@@ -75,6 +71,13 @@ How to reach me:
 <a href="https://twitter.com/francisodonovan"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"></a>
 </p>
 
+<!--
+Kaggle
+Medium
+Stackoverflow
+Others?
+-->
+
 ## 📑 My GitHub Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=proinsias&count_private=true&show_icons=true)
@@ -105,14 +108,8 @@ GT OF
 https://giphy.com/gifs/DataCamp-data-science-datacamp-7c8QeB0VMddFOuu4iR
 https://giphy.com/gifs/web-shittyreactiongifs-4FQMuOKR6zQRO
 https://giphy.com/gifs/DataCamp-machine-learning-ml-datacamp-gutZ5Pm6Xl62eIf5RZ
-https://www.canva.com/design/play?category=tACZCu4vaxs&type=TAENPj_Jo5k
-https://twitter.com/TheJackForge/status/1329818490555957248
-https://codesandbox.io/s/readme-introgif-9fjo5?file=/src/main.js
-https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966
-Kaggle profile?
 
-
-https://github.com/abhisheknaiidu/awesome-github-profile-readme
+https://github.com/SP-XD/SP-XD/raw/main/images/dev-working.gif?raw=true
 -->
 
 <p align="center">
