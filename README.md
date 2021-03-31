@@ -93,11 +93,11 @@ Others?
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/proinsias/kaggle/pull/1) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
-2. ❌ Closed PR [#1](https://github.com/proinsias/proinsias/pull/1) in [proinsias/proinsias](https://github.com/proinsias/proinsias)
-3. 🎉 Merged PR [#513](https://github.com/proinsias/nameshark-vcard/pull/513) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-4. 🎉 Merged PR [#512](https://github.com/proinsias/nameshark-vcard/pull/512) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-5. 🎉 Merged PR [#2](https://github.com/proinsias/mac-playbook/pull/2) in [proinsias/mac-playbook](https://github.com/proinsias/mac-playbook)
+1. 🎉 Merged PR [#1](https://github.com/proinsias/overcommit-demo/pull/1) in [proinsias/overcommit-demo](https://github.com/proinsias/overcommit-demo)
+2. 🎉 Merged PR [#222](https://github.com/proinsias/keras_tutorials/pull/222) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
+3. 🎉 Merged PR [#223](https://github.com/proinsias/keras_tutorials/pull/223) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
+4. 🎉 Merged PR [#224](https://github.com/proinsias/keras_tutorials/pull/224) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
+5. 🎉 Merged PR [#10](https://github.com/proinsias/gilbert-shannon-reeds/pull/10) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
 <!--END_SECTION:activity-->
 
 ## 😜Here's a Joke for you:
