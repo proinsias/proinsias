@@ -93,11 +93,11 @@ Others?
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#225](https://github.com/proinsias/keras_tutorials/pull/225) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
-2. 🎉 Merged PR [#30](https://github.com/proinsias/proinsias.github.io/pull/30) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
-3. 🎉 Merged PR [#29](https://github.com/proinsias/proinsias.github.io/pull/29) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
-4. 🎉 Merged PR [#1](https://github.com/proinsias/overcommit-demo/pull/1) in [proinsias/overcommit-demo](https://github.com/proinsias/overcommit-demo)
-5. 🎉 Merged PR [#222](https://github.com/proinsias/keras_tutorials/pull/222) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
+1. 🗣 Commented on [#15527](https://github.com/scikit-learn/scikit-learn/issues/15527) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+2. 🎉 Merged PR [#225](https://github.com/proinsias/keras_tutorials/pull/225) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
+3. 🎉 Merged PR [#30](https://github.com/proinsias/proinsias.github.io/pull/30) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+4. 🎉 Merged PR [#29](https://github.com/proinsias/proinsias.github.io/pull/29) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+5. 🎉 Merged PR [#1](https://github.com/proinsias/overcommit-demo/pull/1) in [proinsias/overcommit-demo](https://github.com/proinsias/overcommit-demo)
 <!--END_SECTION:activity-->
 
 ## 😜Here's a Joke for you:
