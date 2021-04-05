@@ -55,11 +55,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Upgrading Python Homebrew packages using pip](https://proinsias.github.io/til/upgrading-python-homebrew-packages/)
+- [Skipping a GitHub Actions step without failing](https://proinsias.github.io/til/continue-on-error/)
+- [Providing a ‘subscribe in Google Calendar’ link for an ics feed](https://proinsias.github.io/til/google-calendar-ics-subscribe-link/)
 - [Finding nulls in DataFrames](https://proinsias.github.io/tips/Finding-nulls-in-DataFrames/)
-- [(TIL) Mac: Ask user for password via GUI](https://proinsias.github.io/til/Mac-Ask-user-for-password-via-gui/)
-- [(TIL) Mac: Date and Time](https://proinsias.github.io/til/Mac-Date-and-Time/)
-- [(TIL) Mac: Restart or shutdown](https://proinsias.github.io/til/Mac-Restart-or-shutdown/)
-- [(TIL) Nix: Stty - sane terminal settings](https://proinsias.github.io/til/Nix-Stty-sane-terminal-settings/)
+- [Mac: Ask user for password via GUI](https://proinsias.github.io/til/Mac-Ask-user-for-password-via-gui/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
