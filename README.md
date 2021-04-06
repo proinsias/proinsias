@@ -58,8 +58,8 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 - [Python: Random string generation with digits and upper-case letters](https://proinsias.github.io/til/python-random-string-generation-with-upper-case-letters-and-digits/)
 - [Nix: Find the total size of files within a directory](https://proinsias.github.io/til/nix-find-the-total-size-of-files-within-a-directory/)
 - [Nix: Extract file extension from file name](https://proinsias.github.io/til/nix-extract-file-extension-from-file-name/)
-- [Python: Upgrading Python Homebrew packages using pip](https://proinsias.github.io/til/upgrading-python-homebrew-packages/)
-- [GitHub: Skipping a GitHub Actions step without failing](https://proinsias.github.io/til/continue-on-error/)
+- [Python: Upgrading Homebrew packages using pip](https://proinsias.github.io/til/homebrew-upgrading-python-packages/)
+- [GitHub Actions: Skipping a step without failing](https://proinsias.github.io/til/github-actions-continue-on-error/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
