@@ -55,11 +55,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nix: Count the number of fields in a record](https://proinsias.github.io/til/nix-count-the-number-of-fields-in-a-record/)
+- [Python: Get the most of floats](https://proinsias.github.io/til/python-get-the-most-of-floats/)
+- [Python: Format text paragraphs with textwrap](https://proinsias.github.io/til/python-format-text-paragraphs-with-textwrap/)
+- [Python: The SimpleNamespace Utility Class](https://proinsias.github.io/til/python-the-simplenamespace-utility-class/)
 - [Python: Random string generation with digits and upper-case letters](https://proinsias.github.io/til/python-random-string-generation-with-upper-case-letters-and-digits/)
-- [Nix: Find the total size of files within a directory](https://proinsias.github.io/til/nix-find-the-total-size-of-files-within-a-directory/)
-- [Nix: Extract file extension from file name](https://proinsias.github.io/til/nix-extract-file-extension-from-file-name/)
-- [Python: Upgrading Homebrew packages using pip](https://proinsias.github.io/til/homebrew-upgrading-python-packages/)
-- [GitHub Actions: Skipping a step without failing](https://proinsias.github.io/til/github-actions-continue-on-error/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
