@@ -93,11 +93,11 @@ Others?
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/conda-forge/yamllint-feedstock/pull/29) in [conda-forge/yamllint-feedstock](https://github.com/conda-forge/yamllint-feedstock)
-2. 🗣 Commented on [#9340](https://github.com/pandas-dev/pandas/issues/9340) in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
-3. 🗣 Commented on [#15527](https://github.com/scikit-learn/scikit-learn/issues/15527) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
-4. 🎉 Merged PR [#225](https://github.com/proinsias/keras_tutorials/pull/225) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
-5. 🎉 Merged PR [#30](https://github.com/proinsias/proinsias.github.io/pull/30) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+1. 🎉 Merged PR [#518](https://github.com/proinsias/nameshark-vcard/pull/518) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+2. 🎉 Merged PR [#519](https://github.com/proinsias/nameshark-vcard/pull/519) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+3. 🎉 Merged PR [#521](https://github.com/proinsias/nameshark-vcard/pull/521) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+4. 🎉 Merged PR [#524](https://github.com/proinsias/nameshark-vcard/pull/524) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+5. 🎉 Merged PR [#525](https://github.com/proinsias/nameshark-vcard/pull/525) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
 <!--END_SECTION:activity-->
 
 ## 😜Here's a Joke for you:
