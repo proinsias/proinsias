@@ -93,11 +93,11 @@ Others?
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#518](https://github.com/proinsias/nameshark-vcard/pull/518) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-2. 🎉 Merged PR [#519](https://github.com/proinsias/nameshark-vcard/pull/519) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-3. 🎉 Merged PR [#521](https://github.com/proinsias/nameshark-vcard/pull/521) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-4. 🎉 Merged PR [#524](https://github.com/proinsias/nameshark-vcard/pull/524) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-5. 🎉 Merged PR [#525](https://github.com/proinsias/nameshark-vcard/pull/525) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+1. 🎉 Merged PR [#36](https://github.com/proinsias/proinsias.github.io/pull/36) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+2. 🎉 Merged PR [#31](https://github.com/proinsias/proinsias.github.io/pull/31) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+3. 🎉 Merged PR [#32](https://github.com/proinsias/proinsias.github.io/pull/32) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+4. 🎉 Merged PR [#33](https://github.com/proinsias/proinsias.github.io/pull/33) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+5. 🎉 Merged PR [#34](https://github.com/proinsias/proinsias.github.io/pull/34) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
 <!--END_SECTION:activity-->
 
 ## 😜Here's a Joke for you:
