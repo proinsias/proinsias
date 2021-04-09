@@ -93,11 +93,11 @@ Others?
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#488](https://github.com/pre-commit/pre-commit.com/pull/488) in [pre-commit/pre-commit.com](https://github.com/pre-commit/pre-commit.com)
-2. 🗣 Commented on [#307](https://github.com/travis-ci/travis.rb/issues/307) in [travis-ci/travis.rb](https://github.com/travis-ci/travis.rb)
-3. 💪 Opened PR [#192](https://github.com/toy/image_optim/pull/192) in [toy/image_optim](https://github.com/toy/image_optim)
-4. 🗣 Commented on [#15](https://github.com/scivision/linkchecker-markdown/issues/15) in [scivision/linkchecker-markdown](https://github.com/scivision/linkchecker-markdown)
-5. 💪 Opened PR [#15](https://github.com/scivision/linkchecker-markdown/pull/15) in [scivision/linkchecker-markdown](https://github.com/scivision/linkchecker-markdown)
+1. ❌ Closed PR [#488](https://github.com/pre-commit/pre-commit.com/pull/488) in [pre-commit/pre-commit.com](https://github.com/pre-commit/pre-commit.com)
+2. 🗣 Commented on [#488](https://github.com/pre-commit/pre-commit.com/issues/488) in [pre-commit/pre-commit.com](https://github.com/pre-commit/pre-commit.com)
+3. 💪 Opened PR [#488](https://github.com/pre-commit/pre-commit.com/pull/488) in [pre-commit/pre-commit.com](https://github.com/pre-commit/pre-commit.com)
+4. 🗣 Commented on [#307](https://github.com/travis-ci/travis.rb/issues/307) in [travis-ci/travis.rb](https://github.com/travis-ci/travis.rb)
+5. 💪 Opened PR [#192](https://github.com/toy/image_optim/pull/192) in [toy/image_optim](https://github.com/toy/image_optim)
 <!--END_SECTION:activity-->
 
 ## 😜Here's a Joke for you:
