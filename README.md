@@ -12,6 +12,7 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
   where our goal is to improve the productivity and happiness of every healthcare worker every day.
 
 - I try to post occasionally on my personal [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://proinsias.github.io/).
+  Check it out for a list of projects I've been involved in. 
 
 - Pronouns: He/Him
 
