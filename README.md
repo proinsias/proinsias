@@ -94,11 +94,11 @@ Others?
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#523](https://github.com/proinsias/nameshark-vcard/pull/523) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-2. 🎉 Merged PR [#522](https://github.com/proinsias/nameshark-vcard/pull/522) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-3. 🎉 Merged PR [#2](https://github.com/proinsias/proinsias/pull/2) in [proinsias/proinsias](https://github.com/proinsias/proinsias)
-4. 🗣 Commented on [#523](https://github.com/proinsias/nameshark-vcard/issues/523) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-5. 🗣 Commented on [#522](https://github.com/proinsias/nameshark-vcard/issues/522) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+1. 🗣 Commented on [#192](https://github.com/toy/image_optim/issues/192) in [toy/image_optim](https://github.com/toy/image_optim)
+2. 🎉 Merged PR [#1](https://github.com/proinsias/image_optim/pull/1) in [proinsias/image_optim](https://github.com/proinsias/image_optim)
+3. 💪 Opened PR [#1](https://github.com/proinsias/image_optim/pull/1) in [proinsias/image_optim](https://github.com/proinsias/image_optim)
+4. 🎉 Merged PR [#523](https://github.com/proinsias/nameshark-vcard/pull/523) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+5. 🎉 Merged PR [#522](https://github.com/proinsias/nameshark-vcard/pull/522) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
 <!--END_SECTION:activity-->
 
 ## 😜Here's a Joke for you:
