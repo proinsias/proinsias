@@ -60,14 +60,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Nix Split A File By Line Number](https://proinsias.github.io/nix-split-a-file-by-line-number/)
 - [Nix: Convert reStructuredText to Markdown](https://proinsias.github.io/til/nix-convert-restructuredtext-to-markdown/)
 - [Nix: Get source directory of a script within the script](https://proinsias.github.io/til/nix-get-source-directory-of-a-script-within-the-script/)
 - [Mac: Logout a user from the command line](https://proinsias.github.io/til/mac-logout-a-user-from-the-command-line/)
 - [Bash: Escaping strings easily](https://proinsias.github.io/til/bash-escaping-strings-easily/)
-- [Nix/Macos: See what a process is doing](https://proinsias.github.io/til/nix-macos-see-what-a-process-is-doing/)
-
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
