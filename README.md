@@ -12,6 +12,7 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
   where our goal is to improve the productivity and happiness of every healthcare worker every day.
 
 - I try to post occasionally on my personal [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://proinsias.github.io/).
+  Check it out for a list of projects I've been involved in.
 
 - Pronouns: He/Him
 
@@ -60,6 +61,7 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Nix Split A File By Line Number](https://proinsias.github.io/nix-split-a-file-by-line-number/)
 - [Nix: Convert reStructuredText to Markdown](https://proinsias.github.io/til/nix-convert-restructuredtext-to-markdown/)
 - [Nix: Get source directory of a script within the script](https://proinsias.github.io/til/nix-get-source-directory-of-a-script-within-the-script/)
 - [Mac: Logout a user from the command line](https://proinsias.github.io/til/mac-logout-a-user-from-the-command-line/)

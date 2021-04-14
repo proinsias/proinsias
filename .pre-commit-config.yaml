@@ -99,4 +99,3 @@ repos:
     rev: v1.1.9
     hooks:
       - id: remove-crlf
-      - id: remove-tabs
