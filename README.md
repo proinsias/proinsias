@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/proinsias/travis-lint/pull/2) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
-2. 🎉 Merged PR [#226](https://github.com/proinsias/keras_tutorials/pull/226) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
-3. 🎉 Merged PR [#530](https://github.com/proinsias/nameshark-vcard/pull/530) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-4. 🎉 Merged PR [#531](https://github.com/proinsias/nameshark-vcard/pull/531) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-5. 🎉 Merged PR [#532](https://github.com/proinsias/nameshark-vcard/pull/532) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+1. 🎉 Merged PR [#2](https://github.com/proinsias/kaggle/pull/2) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
+2. 🎉 Merged PR [#3](https://github.com/proinsias/kaggle/pull/3) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
+3. 🎉 Merged PR [#4](https://github.com/proinsias/kaggle/pull/4) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
+4. 🎉 Merged PR [#2](https://github.com/proinsias/travis-lint/pull/2) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
+5. 🎉 Merged PR [#226](https://github.com/proinsias/keras_tutorials/pull/226) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
 
 <!--END_SECTION:activity-->
 
