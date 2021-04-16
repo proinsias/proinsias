@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/proinsias/kaggle/pull/2) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
-2. 🎉 Merged PR [#3](https://github.com/proinsias/kaggle/pull/3) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
-3. 🎉 Merged PR [#4](https://github.com/proinsias/kaggle/pull/4) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
-4. 🎉 Merged PR [#2](https://github.com/proinsias/travis-lint/pull/2) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
-5. 🎉 Merged PR [#226](https://github.com/proinsias/keras_tutorials/pull/226) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
+1. 🎉 Merged PR [#1](https://github.com/proinsias/whoareyou/pull/1) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
+2. 💪 Opened PR [#1](https://github.com/proinsias/whoareyou/pull/1) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
+3. 🎉 Merged PR [#3](https://github.com/proinsias/travis-lint/pull/3) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
+4. 🎉 Merged PR [#2](https://github.com/proinsias/kaggle/pull/2) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
+5. 🎉 Merged PR [#3](https://github.com/proinsias/kaggle/pull/3) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
 
 <!--END_SECTION:activity-->
 
