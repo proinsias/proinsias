@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#192](https://github.com/toy/image_optim/issues/192) in [toy/image_optim](https://github.com/toy/image_optim)
-2. 🎉 Merged PR [#6](https://github.com/proinsias/mac-playbook/pull/6) in [proinsias/mac-playbook](https://github.com/proinsias/mac-playbook)
-3. 🎉 Merged PR [#3](https://github.com/proinsias/pystan-tutorials/pull/3) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
-4. 🎉 Merged PR [#4](https://github.com/proinsias/travis-lint/pull/4) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
-5. 🎉 Merged PR [#1](https://github.com/proinsias/pystan-tutorials/pull/1) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
+1. 🎉 Merged PR [#540](https://github.com/proinsias/nameshark-vcard/pull/540) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+2. 🎉 Merged PR [#7](https://github.com/proinsias/pystan-tutorials/pull/7) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
+3. 🎉 Merged PR [#8](https://github.com/proinsias/pystan-tutorials/pull/8) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
+4. 🗣 Commented on [#192](https://github.com/toy/image_optim/issues/192) in [toy/image_optim](https://github.com/toy/image_optim)
+5. 🎉 Merged PR [#6](https://github.com/proinsias/mac-playbook/pull/6) in [proinsias/mac-playbook](https://github.com/proinsias/mac-playbook)
 
 <!--END_SECTION:activity-->
 
