@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/proinsias/pystan-tutorials/pull/6) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
-2. 🎉 Merged PR [#4](https://github.com/proinsias/pystan-tutorials/pull/4) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
-3. 🎉 Merged PR [#5](https://github.com/proinsias/pystan-tutorials/pull/5) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
-4. 🗣 Commented on [#6](https://github.com/proinsias/pystan-tutorials/issues/6) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
-5. 🎉 Merged PR [#6](https://github.com/proinsias/travis-lint/pull/6) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
+1. 🎉 Merged PR [#539](https://github.com/proinsias/nameshark-vcard/pull/539) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+2. 🎉 Merged PR [#541](https://github.com/proinsias/nameshark-vcard/pull/541) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+3. 🎉 Merged PR [#2](https://github.com/proinsias/whoareyou/pull/2) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
+4. 🎉 Merged PR [#6](https://github.com/proinsias/pystan-tutorials/pull/6) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
+5. 🎉 Merged PR [#4](https://github.com/proinsias/pystan-tutorials/pull/4) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
 
 <!--END_SECTION:activity-->
 
