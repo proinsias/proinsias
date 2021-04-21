@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#539](https://github.com/proinsias/nameshark-vcard/pull/539) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-2. 🎉 Merged PR [#541](https://github.com/proinsias/nameshark-vcard/pull/541) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-3. 🎉 Merged PR [#2](https://github.com/proinsias/whoareyou/pull/2) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
-4. 🎉 Merged PR [#6](https://github.com/proinsias/pystan-tutorials/pull/6) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
-5. 🎉 Merged PR [#4](https://github.com/proinsias/pystan-tutorials/pull/4) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
+1. 🎉 Merged PR [#3](https://github.com/proinsias/proinsias/pull/3) in [proinsias/proinsias](https://github.com/proinsias/proinsias)
+2. ❌ Closed PR [#4](https://github.com/zacharyvoase/slugify/pull/4) in [zacharyvoase/slugify](https://github.com/zacharyvoase/slugify)
+3. ❌ Closed PR [#101](https://github.com/clvv/fasd/pull/101) in [clvv/fasd](https://github.com/clvv/fasd)
+4. ❌ Closed PR [#35](https://github.com/alehouse/homebrew-unofficial/pull/35) in [alehouse/homebrew-unofficial](https://github.com/alehouse/homebrew-unofficial)
+5. ❌ Closed PR [#365](https://github.com/marcotcr/lime/pull/365) in [marcotcr/lime](https://github.com/marcotcr/lime)
 
 <!--END_SECTION:activity-->
 
