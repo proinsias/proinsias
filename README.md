@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/proinsias/proinsias/pull/3) in [proinsias/proinsias](https://github.com/proinsias/proinsias)
-2. ❌ Closed PR [#4](https://github.com/zacharyvoase/slugify/pull/4) in [zacharyvoase/slugify](https://github.com/zacharyvoase/slugify)
-3. ❌ Closed PR [#101](https://github.com/clvv/fasd/pull/101) in [clvv/fasd](https://github.com/clvv/fasd)
-4. ❌ Closed PR [#35](https://github.com/alehouse/homebrew-unofficial/pull/35) in [alehouse/homebrew-unofficial](https://github.com/alehouse/homebrew-unofficial)
-5. ❌ Closed PR [#365](https://github.com/marcotcr/lime/pull/365) in [marcotcr/lime](https://github.com/marcotcr/lime)
+1. 🎉 Merged PR [#7](https://github.com/proinsias/travis-lint/pull/7) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
+2. 🎉 Merged PR [#3](https://github.com/proinsias/proinsias/pull/3) in [proinsias/proinsias](https://github.com/proinsias/proinsias)
+3. ❌ Closed PR [#4](https://github.com/zacharyvoase/slugify/pull/4) in [zacharyvoase/slugify](https://github.com/zacharyvoase/slugify)
+4. ❌ Closed PR [#101](https://github.com/clvv/fasd/pull/101) in [clvv/fasd](https://github.com/clvv/fasd)
+5. ❌ Closed PR [#35](https://github.com/alehouse/homebrew-unofficial/pull/35) in [alehouse/homebrew-unofficial](https://github.com/alehouse/homebrew-unofficial)
 
 <!--END_SECTION:activity-->
 
