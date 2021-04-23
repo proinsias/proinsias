@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/proinsias/travis-lint/pull/7) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
-2. 🎉 Merged PR [#3](https://github.com/proinsias/proinsias/pull/3) in [proinsias/proinsias](https://github.com/proinsias/proinsias)
-3. ❌ Closed PR [#4](https://github.com/zacharyvoase/slugify/pull/4) in [zacharyvoase/slugify](https://github.com/zacharyvoase/slugify)
-4. ❌ Closed PR [#101](https://github.com/clvv/fasd/pull/101) in [clvv/fasd](https://github.com/clvv/fasd)
-5. ❌ Closed PR [#35](https://github.com/alehouse/homebrew-unofficial/pull/35) in [alehouse/homebrew-unofficial](https://github.com/alehouse/homebrew-unofficial)
+1. 🎉 Merged PR [#4](https://github.com/proinsias/whoareyou/pull/4) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
+2. 🎉 Merged PR [#7](https://github.com/proinsias/travis-lint/pull/7) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
+3. 🎉 Merged PR [#3](https://github.com/proinsias/proinsias/pull/3) in [proinsias/proinsias](https://github.com/proinsias/proinsias)
+4. ❌ Closed PR [#4](https://github.com/zacharyvoase/slugify/pull/4) in [zacharyvoase/slugify](https://github.com/zacharyvoase/slugify)
+5. ❌ Closed PR [#101](https://github.com/clvv/fasd/pull/101) in [clvv/fasd](https://github.com/clvv/fasd)
 
 <!--END_SECTION:activity-->
 
