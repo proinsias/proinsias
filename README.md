@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/proinsias/whoareyou/pull/4) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
-2. 🎉 Merged PR [#7](https://github.com/proinsias/travis-lint/pull/7) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
-3. 🎉 Merged PR [#3](https://github.com/proinsias/proinsias/pull/3) in [proinsias/proinsias](https://github.com/proinsias/proinsias)
-4. ❌ Closed PR [#4](https://github.com/zacharyvoase/slugify/pull/4) in [zacharyvoase/slugify](https://github.com/zacharyvoase/slugify)
-5. ❌ Closed PR [#101](https://github.com/clvv/fasd/pull/101) in [clvv/fasd](https://github.com/clvv/fasd)
+1. 🎉 Merged PR [#6](https://github.com/proinsias/find-frequent-bacon-senders/pull/6) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
+2. 🎉 Merged PR [#7](https://github.com/proinsias/find-frequent-bacon-senders/pull/7) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
+3. 🎉 Merged PR [#38](https://github.com/proinsias/proinsias.github.io/pull/38) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+4. 🎉 Merged PR [#39](https://github.com/proinsias/proinsias.github.io/pull/39) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+5. 🎉 Merged PR [#4](https://github.com/proinsias/whoareyou/pull/4) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
 
 <!--END_SECTION:activity-->
 
