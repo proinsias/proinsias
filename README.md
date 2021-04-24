@@ -60,11 +60,13 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Nix Split A File By Line Number](https://proinsias.github.io/nix-split-a-file-by-line-number/)
 - [Nix: Convert reStructuredText to Markdown](https://proinsias.github.io/til/nix-convert-restructuredtext-to-markdown/)
 - [Nix: Get source directory of a script within the script](https://proinsias.github.io/til/nix-get-source-directory-of-a-script-within-the-script/)
 - [Mac: Logout a user from the command line](https://proinsias.github.io/til/mac-logout-a-user-from-the-command-line/)
 - [Bash: Escaping strings easily](https://proinsias.github.io/til/bash-escaping-strings-easily/)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
@@ -100,10 +102,10 @@ Others?
 <!--START_SECTION:activity-->
 
 1. 🎉 Merged PR [#6](https://github.com/proinsias/find-frequent-bacon-senders/pull/6) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
-2. 🎉 Merged PR [#7](https://github.com/proinsias/find-frequent-bacon-senders/pull/7) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
-3. 🎉 Merged PR [#38](https://github.com/proinsias/proinsias.github.io/pull/38) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
-4. 🎉 Merged PR [#39](https://github.com/proinsias/proinsias.github.io/pull/39) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
-5. 🎉 Merged PR [#4](https://github.com/proinsias/whoareyou/pull/4) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
+1. 🎉 Merged PR [#7](https://github.com/proinsias/find-frequent-bacon-senders/pull/7) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
+1. 🎉 Merged PR [#38](https://github.com/proinsias/proinsias.github.io/pull/38) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+1. 🎉 Merged PR [#39](https://github.com/proinsias/proinsias.github.io/pull/39) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+1. 🎉 Merged PR [#4](https://github.com/proinsias/whoareyou/pull/4) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
 
 <!--END_SECTION:activity-->
 
