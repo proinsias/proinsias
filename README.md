@@ -60,11 +60,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MacOS: How to validate your FileVault Recovery Key](https://proinsias.github.io/til/macos-how-to-validate-your-filevault-recovery-key/)
 - [Python: Fix issues using PyCharm and Docker](https://proinsias.github.io/til/python-fix-issues-using-pycharm-and-docker/)
 - [Nix Split A File By Line Number](https://proinsias.github.io/nix-split-a-file-by-line-number/)
 - [Nix: Convert reStructuredText to Markdown](https://proinsias.github.io/til/nix-convert-restructuredtext-to-markdown/)
 - [Nix: Get source directory of a script within the script](https://proinsias.github.io/til/nix-get-source-directory-of-a-script-within-the-script/)
-- [Mac: Logout a user from the command line](https://proinsias.github.io/til/mac-logout-a-user-from-the-command-line/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
