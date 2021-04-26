@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/proinsias/mac-playbook/pull/7) in [proinsias/mac-playbook](https://github.com/proinsias/mac-playbook)
-2. 🎉 Merged PR [#6](https://github.com/proinsias/find-frequent-bacon-senders/pull/6) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
-3. 🎉 Merged PR [#7](https://github.com/proinsias/find-frequent-bacon-senders/pull/7) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
-4. 🎉 Merged PR [#38](https://github.com/proinsias/proinsias.github.io/pull/38) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
-5. 🎉 Merged PR [#39](https://github.com/proinsias/proinsias.github.io/pull/39) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+1. 🎉 Merged PR [#542](https://github.com/proinsias/nameshark-vcard/pull/542) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+2. 🎉 Merged PR [#8](https://github.com/proinsias/travis-lint/pull/8) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
+3. 🎉 Merged PR [#3](https://github.com/proinsias/homebrew-drivers-old/pull/3) in [proinsias/homebrew-drivers-old](https://github.com/proinsias/homebrew-drivers-old)
+4. 🎉 Merged PR [#9](https://github.com/proinsias/pystan-tutorials/pull/9) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
+5. 🎉 Merged PR [#7](https://github.com/proinsias/mac-playbook/pull/7) in [proinsias/mac-playbook](https://github.com/proinsias/mac-playbook)
 
 <!--END_SECTION:activity-->
 
