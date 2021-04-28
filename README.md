@@ -60,11 +60,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The social contract of open source](https://proinsias.github.io/posts/the-social-contract-of-open-source/)
+- [Git: Dynamic identity](https://proinsias.github.io/til/git-dynamic-identity/)
+- [Git: Sort branches by recency](https://proinsias.github.io/til/git-sort-branches-by-recency/)
+- [Bash: Run entire shell script as root](https://proinsias.github.io/til/bash-run-entire-shell-script-as-root/)
 - [Pandas: Simplify filter expressions with between](https://proinsias.github.io/til/pandas-simplify-filter-expressions-with-between/)
-- [Pandas: Regular expressions with str.contains](https://proinsias.github.io/til/pandas-regular-expressions-with-str-contains/)
-- [Python: Optimize logging of expensive debugging operations](https://proinsias.github.io/til/python-optimize-logging-of-expensive-debugging-operations/)
-- [MacOS: How to validate your FileVault Recovery Key](https://proinsias.github.io/til/macos-how-to-validate-your-filevault-recovery-key/)
-- [Python: Fix issues using PyCharm and Docker](https://proinsias.github.io/til/python-fix-issues-using-pycharm-and-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
