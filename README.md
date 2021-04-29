@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/proinsias/whoareyou/pull/5) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
-2. 🎉 Merged PR [#9](https://github.com/proinsias/travis-lint/pull/9) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
-3. 🎉 Merged PR [#542](https://github.com/proinsias/nameshark-vcard/pull/542) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-4. 🎉 Merged PR [#8](https://github.com/proinsias/travis-lint/pull/8) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
-5. 🎉 Merged PR [#3](https://github.com/proinsias/homebrew-drivers-old/pull/3) in [proinsias/homebrew-drivers-old](https://github.com/proinsias/homebrew-drivers-old)
+1. 🎉 Merged PR [#4](https://github.com/proinsias/homebrew-drivers-old/pull/4) in [proinsias/homebrew-drivers-old](https://github.com/proinsias/homebrew-drivers-old)
+2. 🎉 Merged PR [#5](https://github.com/proinsias/kaggle/pull/5) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
+3. 🎉 Merged PR [#5](https://github.com/proinsias/whoareyou/pull/5) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
+4. 🎉 Merged PR [#9](https://github.com/proinsias/travis-lint/pull/9) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
+5. 🎉 Merged PR [#542](https://github.com/proinsias/nameshark-vcard/pull/542) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
 
 <!--END_SECTION:activity-->
 
