@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/conda-forge/aws-shell-feedstock/pull/7) in [conda-forge/aws-shell-feedstock](https://github.com/conda-forge/aws-shell-feedstock)
-2. 🎉 Merged PR [#227](https://github.com/proinsias/keras_tutorials/pull/227) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
-3. 🎉 Merged PR [#40](https://github.com/proinsias/proinsias.github.io/pull/40) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
-4. 🎉 Merged PR [#8](https://github.com/proinsias/find-frequent-bacon-senders/pull/8) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
-5. 🎉 Merged PR [#543](https://github.com/proinsias/nameshark-vcard/pull/543) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+1. 🗣 Commented on [#7333](https://github.com/scikit-learn/scikit-learn/issues/7333) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+2. 🎉 Merged PR [#7](https://github.com/conda-forge/aws-shell-feedstock/pull/7) in [conda-forge/aws-shell-feedstock](https://github.com/conda-forge/aws-shell-feedstock)
+3. 🎉 Merged PR [#227](https://github.com/proinsias/keras_tutorials/pull/227) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
+4. 🎉 Merged PR [#40](https://github.com/proinsias/proinsias.github.io/pull/40) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+5. 🎉 Merged PR [#8](https://github.com/proinsias/find-frequent-bacon-senders/pull/8) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
 
 <!--END_SECTION:activity-->
 
