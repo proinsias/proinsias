@@ -35,7 +35,7 @@ repos:
   # General
 
   - repo: https://github.com/Yelp/detect-secrets
-    rev: v1.0.3
+    rev: v1.1.0
     hooks:
       - id: detect-secrets
         args: ['--baseline', '.secrets.baseline']
@@ -49,19 +49,19 @@ repos:
   # Git
 
   - repo: https://github.com/jorisroovers/gitlint
-    rev: v0.15.0
+    rev: v0.15.1
     hooks:
       - id: gitlint
 
   - repo: https://github.com/sirosen/check-jsonschema
-    rev: 0.3.0
+    rev: 0.3.1
     hooks:
       - id: check-github-workflows
 
   # Markdown
 
   - repo: https://github.com/executablebooks/mdformat
-    rev: 0.6.4
+    rev: 0.7.5
     hooks:
       - id: mdformat
         additional_dependencies:
@@ -94,7 +94,7 @@ repos:
       - id: shfmt
 
   - repo: https://github.com/Lucas-C/pre-commit-hooks
-    rev: v1.1.9
+    rev: v1.1.10
     hooks:
       - id: remove-crlf
       - id: remove-tabs
