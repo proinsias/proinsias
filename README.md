@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/proinsias/mac-playbook/pull/9) in [proinsias/mac-playbook](https://github.com/proinsias/mac-playbook)
-2. 🗣 Commented on [#7333](https://github.com/scikit-learn/scikit-learn/issues/7333) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
-3. 🎉 Merged PR [#7](https://github.com/conda-forge/aws-shell-feedstock/pull/7) in [conda-forge/aws-shell-feedstock](https://github.com/conda-forge/aws-shell-feedstock)
-4. 🎉 Merged PR [#227](https://github.com/proinsias/keras_tutorials/pull/227) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
-5. 🎉 Merged PR [#40](https://github.com/proinsias/proinsias.github.io/pull/40) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+1. 🎉 Merged PR [#41](https://github.com/proinsias/proinsias.github.io/pull/41) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+2. 🎉 Merged PR [#5](https://github.com/proinsias/homebrew-drivers-old/pull/5) in [proinsias/homebrew-drivers-old](https://github.com/proinsias/homebrew-drivers-old)
+3. 🎉 Merged PR [#11](https://github.com/proinsias/pystan-tutorials/pull/11) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
+4. 🎉 Merged PR [#7](https://github.com/proinsias/kaggle/pull/7) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
+5. 🎉 Merged PR [#1](https://github.com/proinsias/detection-and-exploration/pull/1) in [proinsias/detection-and-exploration](https://github.com/proinsias/detection-and-exploration)
 
 <!--END_SECTION:activity-->
 
