@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#41](https://github.com/proinsias/proinsias.github.io/pull/41) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
-2. 🎉 Merged PR [#5](https://github.com/proinsias/homebrew-drivers-old/pull/5) in [proinsias/homebrew-drivers-old](https://github.com/proinsias/homebrew-drivers-old)
-3. 🎉 Merged PR [#11](https://github.com/proinsias/pystan-tutorials/pull/11) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
-4. 🎉 Merged PR [#7](https://github.com/proinsias/kaggle/pull/7) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
-5. 🎉 Merged PR [#1](https://github.com/proinsias/detection-and-exploration/pull/1) in [proinsias/detection-and-exploration](https://github.com/proinsias/detection-and-exploration)
+1. 🎉 Merged PR [#228](https://github.com/proinsias/keras_tutorials/pull/228) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
+2. 🎉 Merged PR [#41](https://github.com/proinsias/proinsias.github.io/pull/41) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+3. 🎉 Merged PR [#5](https://github.com/proinsias/homebrew-drivers-old/pull/5) in [proinsias/homebrew-drivers-old](https://github.com/proinsias/homebrew-drivers-old)
+4. 🎉 Merged PR [#11](https://github.com/proinsias/pystan-tutorials/pull/11) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
+5. 🎉 Merged PR [#7](https://github.com/proinsias/kaggle/pull/7) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
 
 <!--END_SECTION:activity-->
 
