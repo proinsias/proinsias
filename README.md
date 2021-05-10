@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/proinsias/infrared-observations/pull/1) in [proinsias/infrared-observations](https://github.com/proinsias/infrared-observations)
-2. 🎉 Merged PR [#6](https://github.com/proinsias/whoareyou/pull/6) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
-3. 🎉 Merged PR [#228](https://github.com/proinsias/keras_tutorials/pull/228) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
-4. 🎉 Merged PR [#41](https://github.com/proinsias/proinsias.github.io/pull/41) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
-5. 🎉 Merged PR [#5](https://github.com/proinsias/homebrew-drivers-old/pull/5) in [proinsias/homebrew-drivers-old](https://github.com/proinsias/homebrew-drivers-old)
+1. 🗣 Commented on [#13](https://github.com/proinsias/pystan-tutorials/issues/13) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
+2. 🎉 Merged PR [#12](https://github.com/proinsias/pystan-tutorials/pull/12) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
+3. 🎉 Merged PR [#1](https://github.com/proinsias/infrared-observations/pull/1) in [proinsias/infrared-observations](https://github.com/proinsias/infrared-observations)
+4. 🎉 Merged PR [#6](https://github.com/proinsias/whoareyou/pull/6) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
+5. 🎉 Merged PR [#228](https://github.com/proinsias/keras_tutorials/pull/228) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
 
 <!--END_SECTION:activity-->
 
