@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#13](https://github.com/proinsias/pystan-tutorials/issues/13) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
-2. 🎉 Merged PR [#12](https://github.com/proinsias/pystan-tutorials/pull/12) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
-3. 🎉 Merged PR [#1](https://github.com/proinsias/infrared-observations/pull/1) in [proinsias/infrared-observations](https://github.com/proinsias/infrared-observations)
-4. 🎉 Merged PR [#6](https://github.com/proinsias/whoareyou/pull/6) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
-5. 🎉 Merged PR [#228](https://github.com/proinsias/keras_tutorials/pull/228) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
+1. 🎉 Merged PR [#10](https://github.com/proinsias/find-frequent-bacon-senders/pull/10) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
+2. 🎉 Merged PR [#11](https://github.com/proinsias/find-frequent-bacon-senders/pull/11) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
+3. 🎉 Merged PR [#229](https://github.com/proinsias/keras_tutorials/pull/229) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
+4. 🎉 Merged PR [#230](https://github.com/proinsias/keras_tutorials/pull/230) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
+5. 🎉 Merged PR [#10](https://github.com/proinsias/mac-playbook/pull/10) in [proinsias/mac-playbook](https://github.com/proinsias/mac-playbook)
 
 <!--END_SECTION:activity-->
 
