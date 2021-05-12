@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/proinsias/homebrew-drivers-old/pull/6) in [proinsias/homebrew-drivers-old](https://github.com/proinsias/homebrew-drivers-old)
-2. 🎉 Merged PR [#16](https://github.com/proinsias/pystan-tutorials/pull/16) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
-3. 🎉 Merged PR [#11](https://github.com/proinsias/kaggle/pull/11) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
-4. 🎉 Merged PR [#12](https://github.com/proinsias/find-frequent-bacon-senders/pull/12) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
-5. 🎉 Merged PR [#19](https://github.com/proinsias/gilbert-shannon-reeds/pull/19) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
+1. 🎉 Merged PR [#10](https://github.com/proinsias/travis-lint/pull/10) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
+2. 🎉 Merged PR [#231](https://github.com/proinsias/keras_tutorials/pull/231) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
+3. 🎉 Merged PR [#6](https://github.com/proinsias/homebrew-drivers-old/pull/6) in [proinsias/homebrew-drivers-old](https://github.com/proinsias/homebrew-drivers-old)
+4. 🎉 Merged PR [#16](https://github.com/proinsias/pystan-tutorials/pull/16) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
+5. 🎉 Merged PR [#11](https://github.com/proinsias/kaggle/pull/11) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
 
 <!--END_SECTION:activity-->
 
