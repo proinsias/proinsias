@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#10](https://github.com/proinsias/travis-lint/pull/10) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
-2. 🎉 Merged PR [#231](https://github.com/proinsias/keras_tutorials/pull/231) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
-3. 🎉 Merged PR [#6](https://github.com/proinsias/homebrew-drivers-old/pull/6) in [proinsias/homebrew-drivers-old](https://github.com/proinsias/homebrew-drivers-old)
-4. 🎉 Merged PR [#16](https://github.com/proinsias/pystan-tutorials/pull/16) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
-5. 🎉 Merged PR [#11](https://github.com/proinsias/kaggle/pull/11) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
+1. 🎉 Merged PR [#232](https://github.com/proinsias/keras_tutorials/pull/232) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
+2. 🎉 Merged PR [#10](https://github.com/proinsias/travis-lint/pull/10) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
+3. 🎉 Merged PR [#231](https://github.com/proinsias/keras_tutorials/pull/231) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
+4. 🎉 Merged PR [#6](https://github.com/proinsias/homebrew-drivers-old/pull/6) in [proinsias/homebrew-drivers-old](https://github.com/proinsias/homebrew-drivers-old)
+5. 🎉 Merged PR [#16](https://github.com/proinsias/pystan-tutorials/pull/16) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
 
 <!--END_SECTION:activity-->
 
