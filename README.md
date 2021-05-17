@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#232](https://github.com/proinsias/keras_tutorials/pull/232) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
-2. 🎉 Merged PR [#10](https://github.com/proinsias/travis-lint/pull/10) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
-3. 🎉 Merged PR [#231](https://github.com/proinsias/keras_tutorials/pull/231) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
-4. 🎉 Merged PR [#6](https://github.com/proinsias/homebrew-drivers-old/pull/6) in [proinsias/homebrew-drivers-old](https://github.com/proinsias/homebrew-drivers-old)
-5. 🎉 Merged PR [#16](https://github.com/proinsias/pystan-tutorials/pull/16) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
+1. 🎉 Merged PR [#46](https://github.com/proinsias/proinsias.github.io/pull/46) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+2. 🎉 Merged PR [#49](https://github.com/proinsias/proinsias.github.io/pull/49) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+3. 🎉 Merged PR [#47](https://github.com/proinsias/proinsias.github.io/pull/47) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+4. 🎉 Merged PR [#13](https://github.com/proinsias/mac-playbook/pull/13) in [proinsias/mac-playbook](https://github.com/proinsias/mac-playbook)
+5. 🎉 Merged PR [#20](https://github.com/proinsias/gilbert-shannon-reeds/pull/20) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
 
 <!--END_SECTION:activity-->
 
