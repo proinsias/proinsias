@@ -3,10 +3,8 @@ name: Add Recent Github Activity
 
 on:
   schedule:
-    - cron: "0 * * * *"
-  # Run workflow manually (without waiting for the cron to be called),
-  # through the Github Actions Workflow page directly.
-  workflow_dispatch:
+    - cron: 0 0 * * *  # every day at midnight
+  workflow_dispatch:  # Run workflow manually directly via the Github Actions Workflow page.
 
 jobs:
   add-recent-github-activity:
