@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#20](https://github.com/proinsias/whoareyou/pull/20) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
-2. 🎉 Merged PR [#46](https://github.com/proinsias/proinsias.github.io/pull/46) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
-3. 🎉 Merged PR [#49](https://github.com/proinsias/proinsias.github.io/pull/49) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
-4. 🎉 Merged PR [#47](https://github.com/proinsias/proinsias.github.io/pull/47) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
-5. 🎉 Merged PR [#13](https://github.com/proinsias/mac-playbook/pull/13) in [proinsias/mac-playbook](https://github.com/proinsias/mac-playbook)
+1. 🎉 Merged PR [#556](https://github.com/proinsias/nameshark-vcard/pull/556) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+2. 🎉 Merged PR [#24](https://github.com/proinsias/gilbert-shannon-reeds/pull/24) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
+3. 🎉 Merged PR [#14](https://github.com/proinsias/kaggle/pull/14) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
+4. 🎉 Merged PR [#50](https://github.com/proinsias/proinsias.github.io/pull/50) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+5. 🎉 Merged PR [#13](https://github.com/proinsias/find-frequent-bacon-senders/pull/13) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
 
 <!--END_SECTION:activity-->
 
