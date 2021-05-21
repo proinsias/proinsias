@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#556](https://github.com/proinsias/nameshark-vcard/pull/556) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-2. 🎉 Merged PR [#24](https://github.com/proinsias/gilbert-shannon-reeds/pull/24) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
-3. 🎉 Merged PR [#14](https://github.com/proinsias/kaggle/pull/14) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
-4. 🎉 Merged PR [#50](https://github.com/proinsias/proinsias.github.io/pull/50) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
-5. 🎉 Merged PR [#13](https://github.com/proinsias/find-frequent-bacon-senders/pull/13) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
+1. 🎉 Merged PR [#25](https://github.com/proinsias/gilbert-shannon-reeds/pull/25) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
+2. 🎉 Merged PR [#21](https://github.com/proinsias/pystan-tutorials/pull/21) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
+3. 🎉 Merged PR [#21](https://github.com/proinsias/gilbert-shannon-reeds/pull/21) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
+4. 🎉 Merged PR [#22](https://github.com/proinsias/gilbert-shannon-reeds/pull/22) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
+5. 🎉 Merged PR [#3](https://github.com/proinsias/detection-and-exploration/pull/3) in [proinsias/detection-and-exploration](https://github.com/proinsias/detection-and-exploration)
 
 <!--END_SECTION:activity-->
 
