@@ -60,11 +60,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pandas: Three new functions](https://proinsias.github.io/til/pandas-three-new-functions/)
 - [Pandas: Extra pd.options.display options](https://proinsias.github.io/til/pandas-extra-pd-options-display-options/)
 - [Nix: Sponge soaks up standard input and writes it to a file](https://proinsias.github.io/til/nix-sponge-soaks-up-standard-input-and-writes-it-to-a-file/)
 - [The social contract of open source](https://proinsias.github.io/posts/the-social-contract-of-open-source/)
 - [Git: Dynamic identity](https://proinsias.github.io/til/git-dynamic-identity/)
-- [Git: Sort branches by recency](https://proinsias.github.io/til/git-sort-branches-by-recency/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
