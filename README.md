@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#558](https://github.com/proinsias/nameshark-vcard/pull/558) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-2. 🎉 Merged PR [#559](https://github.com/proinsias/nameshark-vcard/pull/559) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-3. 🎉 Merged PR [#561](https://github.com/proinsias/nameshark-vcard/pull/561) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-4. 🎉 Merged PR [#560](https://github.com/proinsias/nameshark-vcard/pull/560) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-5. 🎉 Merged PR [#15](https://github.com/proinsias/mac-playbook/pull/15) in [proinsias/mac-playbook](https://github.com/proinsias/mac-playbook)
+1. 🎉 Merged PR [#9](https://github.com/proinsias/homebrew-drivers-old/pull/9) in [proinsias/homebrew-drivers-old](https://github.com/proinsias/homebrew-drivers-old)
+2. 🎉 Merged PR [#51](https://github.com/proinsias/proinsias.github.io/pull/51) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+3. 🎉 Merged PR [#52](https://github.com/proinsias/proinsias.github.io/pull/52) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+4. 🎉 Merged PR [#5](https://github.com/proinsias/detection-and-exploration/pull/5) in [proinsias/detection-and-exploration](https://github.com/proinsias/detection-and-exploration)
+5. 🎉 Merged PR [#17](https://github.com/proinsias/find-frequent-bacon-senders/pull/17) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
 
 <!--END_SECTION:activity-->
 
