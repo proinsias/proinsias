@@ -24,7 +24,7 @@ jobs:
       - name: alex
         uses: reviewdog/action-alex@v1
         with:
-          github_token: ${{ secrets.github_token }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           # Change reviewdog reporter if you need [github-pr-check,github-check,github-pr-review].
           reporter: github-pr-review
           # Change reporter level if you need.
@@ -39,7 +39,7 @@ jobs:
       - name: Detect Secrets
         uses: reviewdog/action-detect-secrets@v0.4.4
         with:
-          github_token: ${{ secrets.github_token }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           reporter: github-pr-review
 
       - name: markdownlint
@@ -57,7 +57,7 @@ jobs:
       - name: misspell
         uses: reviewdog/action-misspell@v1
         with:
-          github_token: ${{ secrets.github_token }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           locale: "US"
 
       # - name: pre-commit
