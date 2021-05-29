@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#54](https://github.com/proinsias/proinsias.github.io/pull/54) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
-2. 🎉 Merged PR [#53](https://github.com/proinsias/proinsias.github.io/pull/53) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
-3. 💪 Opened PR [#53](https://github.com/proinsias/proinsias.github.io/pull/53) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
-4. 🎉 Merged PR [#9](https://github.com/proinsias/homebrew-drivers-old/pull/9) in [proinsias/homebrew-drivers-old](https://github.com/proinsias/homebrew-drivers-old)
-5. 🎉 Merged PR [#51](https://github.com/proinsias/proinsias.github.io/pull/51) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+1. 🎉 Merged PR [#55](https://github.com/proinsias/proinsias.github.io/pull/55) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+2. 🎉 Merged PR [#54](https://github.com/proinsias/proinsias.github.io/pull/54) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+3. 🎉 Merged PR [#53](https://github.com/proinsias/proinsias.github.io/pull/53) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+4. 💪 Opened PR [#53](https://github.com/proinsias/proinsias.github.io/pull/53) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+5. 🎉 Merged PR [#9](https://github.com/proinsias/homebrew-drivers-old/pull/9) in [proinsias/homebrew-drivers-old](https://github.com/proinsias/homebrew-drivers-old)
 
 <!--END_SECTION:activity-->
 
