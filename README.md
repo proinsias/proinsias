@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#20](https://github.com/proinsias/find-frequent-bacon-senders/pull/20) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
-2. 🎉 Merged PR [#32](https://github.com/proinsias/gilbert-shannon-reeds/pull/32) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
-3. 🎉 Merged PR [#25](https://github.com/proinsias/whoareyou/pull/25) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
-4. 🎉 Merged PR [#26](https://github.com/proinsias/pystan-tutorials/pull/26) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
-5. 🎉 Merged PR [#18](https://github.com/proinsias/kaggle/pull/18) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
+1. 🎉 Merged PR [#21](https://github.com/proinsias/find-frequent-bacon-senders/pull/21) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
+2. 🎉 Merged PR [#22](https://github.com/proinsias/find-frequent-bacon-senders/pull/22) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
+3. 🎉 Merged PR [#10](https://github.com/proinsias/homebrew-drivers-old/pull/10) in [proinsias/homebrew-drivers-old](https://github.com/proinsias/homebrew-drivers-old)
+4. 🎉 Merged PR [#23](https://github.com/proinsias/find-frequent-bacon-senders/pull/23) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
+5. 🎉 Merged PR [#19](https://github.com/proinsias/kaggle/pull/19) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
 
 <!--END_SECTION:activity-->
 
