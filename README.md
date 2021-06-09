@@ -60,11 +60,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Python: Get a notification via knockknock](https://proinsias.github.io/til/python-get-a-notification-via-knockknock/)
+- [Nix: Make a noise!](https://proinsias.github.io/til/nix-make-a-noise/)
+- [Pandas: Some notes on groupby](https://proinsias.github.io/til/pandas-some-notes-on-groupby/)
 - [Python: Use underscores as visual separators for numbers](https://proinsias.github.io/til/python-use-underscores-as-visual-separators-for-numbers/)
 - [Website: How to create drafts in Jekyll](https://proinsias.github.io/til/website-how-to-create-drafts-in-jekyll/)
-- [Nix: Echo and sudo for files owned by root](https://proinsias.github.io/til/nix-echo-and-sudo-for-files-owned-by-root/)
-- [Pandas: Three new functions](https://proinsias.github.io/til/pandas-three-new-functions/)
-- [Pandas: Extra pd.options.display options](https://proinsias.github.io/til/pandas-extra-pd-options-display-options/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
