@@ -60,11 +60,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The evolution of US gun violence](https://proinsias.github.io/posts/the-evolution-of-us-gun-violence/)
-- [Python: Get a notification via knockknock](https://proinsias.github.io/til/python-get-a-notification-via-knockknock/)
-- [Nix: Make a noise!](https://proinsias.github.io/til/nix-make-a-noise/)
-- [Pandas: Some notes on groupby](https://proinsias.github.io/til/pandas-some-notes-on-groupby/)
-- [Python: Use underscores as visual separators for numbers](https://proinsias.github.io/til/python-use-underscores-as-visual-separators-for-numbers/)
+- [Git: Clone a specific branch](https://proinsias.github.io/til/git-clone-a-specific-branch/)
+- [Nix: Streaming gsutil transfers](https://proinsias.github.io/til/nix-streaming-gsutil-transfers/)
+- [SQL: Calculate percentage of column](https://proinsias.github.io/til/sql-calculate-percentage-of-column/)
+- [SQL: Select a random sample](https://proinsias.github.io/til/sql-select-a-random-sample/)
+- [Pandas: Split string column into separate columns](https://proinsias.github.io/%3Ccategories%3E/pandas-split-string-column-into-separate-columns/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
