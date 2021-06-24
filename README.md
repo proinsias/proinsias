@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#18](https://github.com/proinsias/mac-playbook/pull/18) in [proinsias/mac-playbook](https://github.com/proinsias/mac-playbook)
-2. 🎉 Merged PR [#31](https://github.com/proinsias/find-frequent-bacon-senders/pull/31) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
-3. 🎉 Merged PR [#3](https://github.com/proinsias/copier-python-template/pull/3) in [proinsias/copier-python-template](https://github.com/proinsias/copier-python-template)
-4. 🎉 Merged PR [#6](https://github.com/proinsias/detection-and-exploration/pull/6) in [proinsias/detection-and-exploration](https://github.com/proinsias/detection-and-exploration)
-5. 🎉 Merged PR [#5](https://github.com/proinsias/infrared-observations/pull/5) in [proinsias/infrared-observations](https://github.com/proinsias/infrared-observations)
+1. 🎉 Merged PR [#33](https://github.com/proinsias/pystan-tutorials/pull/33) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
+2. 🎉 Merged PR [#32](https://github.com/proinsias/find-frequent-bacon-senders/pull/32) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
+3. 🎉 Merged PR [#33](https://github.com/proinsias/find-frequent-bacon-senders/pull/33) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
+4. 🎉 Merged PR [#44](https://github.com/proinsias/gilbert-shannon-reeds/pull/44) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
+5. 🎉 Merged PR [#41](https://github.com/proinsias/whoareyou/pull/41) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
 
 <!--END_SECTION:activity-->
 
