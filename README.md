@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#35](https://github.com/proinsias/find-frequent-bacon-senders/pull/35) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
-2. 🎉 Merged PR [#36](https://github.com/proinsias/find-frequent-bacon-senders/pull/36) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
-3. 🎉 Merged PR [#573](https://github.com/proinsias/nameshark-vcard/pull/573) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-4. 🎉 Merged PR [#36](https://github.com/proinsias/pystan-tutorials/pull/36) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
-5. 🎉 Merged PR [#37](https://github.com/proinsias/pystan-tutorials/pull/37) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
+1. 🎉 Merged PR [#1](https://github.com/conda-forge/clize-feedstock/pull/1) in [conda-forge/clize-feedstock](https://github.com/conda-forge/clize-feedstock)
+2. 🎉 Merged PR [#3](https://github.com/conda-forge/clize-feedstock/pull/3) in [conda-forge/clize-feedstock](https://github.com/conda-forge/clize-feedstock)
+3. ❗️ Closed issue [#2](https://github.com/conda-forge/clize-feedstock/issues/2) in [conda-forge/clize-feedstock](https://github.com/conda-forge/clize-feedstock)
+4. ❗️ Opened issue [#2](https://github.com/conda-forge/clize-feedstock/issues/2) in [conda-forge/clize-feedstock](https://github.com/conda-forge/clize-feedstock)
+5. 🎉 Merged PR [#35](https://github.com/proinsias/find-frequent-bacon-senders/pull/35) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
 
 <!--END_SECTION:activity-->
 
