@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/conda-forge/clize-feedstock/pull/1) in [conda-forge/clize-feedstock](https://github.com/conda-forge/clize-feedstock)
-2. 🎉 Merged PR [#3](https://github.com/conda-forge/clize-feedstock/pull/3) in [conda-forge/clize-feedstock](https://github.com/conda-forge/clize-feedstock)
-3. ❗️ Closed issue [#2](https://github.com/conda-forge/clize-feedstock/issues/2) in [conda-forge/clize-feedstock](https://github.com/conda-forge/clize-feedstock)
-4. ❗️ Opened issue [#2](https://github.com/conda-forge/clize-feedstock/issues/2) in [conda-forge/clize-feedstock](https://github.com/conda-forge/clize-feedstock)
-5. 🎉 Merged PR [#35](https://github.com/proinsias/find-frequent-bacon-senders/pull/35) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
+1. 🎉 Merged PR [#7](https://github.com/proinsias/infrared-observations/pull/7) in [proinsias/infrared-observations](https://github.com/proinsias/infrared-observations)
+2. 🎉 Merged PR [#37](https://github.com/proinsias/find-frequent-bacon-senders/pull/37) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
+3. 🎉 Merged PR [#574](https://github.com/proinsias/nameshark-vcard/pull/574) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+4. 🎉 Merged PR [#19](https://github.com/proinsias/proinsias/pull/19) in [proinsias/proinsias](https://github.com/proinsias/proinsias)
+5. 🎉 Merged PR [#8](https://github.com/proinsias/detection-and-exploration/pull/8) in [proinsias/detection-and-exploration](https://github.com/proinsias/detection-and-exploration)
 
 <!--END_SECTION:activity-->
 
