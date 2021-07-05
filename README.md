@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#16945](https://github.com/scikit-learn/scikit-learn/issues/16945) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
-2. 🎉 Merged PR [#5](https://github.com/proinsias/copier-python-template/pull/5) in [proinsias/copier-python-template](https://github.com/proinsias/copier-python-template)
-3. 🎉 Merged PR [#65](https://github.com/proinsias/proinsias.github.io/pull/65) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
-4. 🎉 Merged PR [#10](https://github.com/conda-forge/doublemetaphone-feedstock/pull/10) in [conda-forge/doublemetaphone-feedstock](https://github.com/conda-forge/doublemetaphone-feedstock)
-5. 🎉 Merged PR [#11](https://github.com/conda-forge/repeated_test-feedstock/pull/11) in [conda-forge/repeated_test-feedstock](https://github.com/conda-forge/repeated_test-feedstock)
+1. 🎉 Merged PR [#575](https://github.com/proinsias/nameshark-vcard/pull/575) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+2. 🗣 Commented on [#16945](https://github.com/scikit-learn/scikit-learn/issues/16945) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+3. 🎉 Merged PR [#5](https://github.com/proinsias/copier-python-template/pull/5) in [proinsias/copier-python-template](https://github.com/proinsias/copier-python-template)
+4. 🎉 Merged PR [#65](https://github.com/proinsias/proinsias.github.io/pull/65) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+5. 🎉 Merged PR [#10](https://github.com/conda-forge/doublemetaphone-feedstock/pull/10) in [conda-forge/doublemetaphone-feedstock](https://github.com/conda-forge/doublemetaphone-feedstock)
 
 <!--END_SECTION:activity-->
 
