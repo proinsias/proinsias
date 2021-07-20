@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#33](https://github.com/proinsias/kaggle/pull/33) in [proinsias/kaggle](https://github.com/proinsias/kaggle)
-2. 🎉 Merged PR [#45](https://github.com/proinsias/pystan-tutorials/pull/45) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
-3. 🎉 Merged PR [#10](https://github.com/proinsias/copier-python-template/pull/10) in [proinsias/copier-python-template](https://github.com/proinsias/copier-python-template)
-4. 🎉 Merged PR [#56](https://github.com/proinsias/gilbert-shannon-reeds/pull/56) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
-5. 🎉 Merged PR [#57](https://github.com/proinsias/whoareyou/pull/57) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
+1. 🎉 Merged PR [#586](https://github.com/proinsias/nameshark-vcard/pull/586) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+2. 🎉 Merged PR [#584](https://github.com/proinsias/nameshark-vcard/pull/584) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+3. 🎉 Merged PR [#585](https://github.com/proinsias/nameshark-vcard/pull/585) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+4. 🎉 Merged PR [#583](https://github.com/proinsias/nameshark-vcard/pull/583) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+5. 🎉 Merged PR [#17](https://github.com/proinsias/travis-lint/pull/17) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
 
 <!--END_SECTION:activity-->
 
