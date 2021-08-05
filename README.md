@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#260](https://github.com/proinsias/keras_tutorials/pull/260) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
-2. 🎉 Merged PR [#64](https://github.com/proinsias/gilbert-shannon-reeds/pull/64) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
-3. 🎉 Merged PR [#66](https://github.com/proinsias/gilbert-shannon-reeds/pull/66) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
-4. 🎉 Merged PR [#67](https://github.com/proinsias/gilbert-shannon-reeds/pull/67) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
-5. 🎉 Merged PR [#68](https://github.com/proinsias/gilbert-shannon-reeds/pull/68) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
+1. 🎉 Merged PR [#74](https://github.com/proinsias/proinsias.github.io/pull/74) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+2. 🎉 Merged PR [#19](https://github.com/proinsias/travis-lint/pull/19) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
+3. 🎉 Merged PR [#260](https://github.com/proinsias/keras_tutorials/pull/260) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
+4. 🎉 Merged PR [#64](https://github.com/proinsias/gilbert-shannon-reeds/pull/64) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
+5. 🎉 Merged PR [#66](https://github.com/proinsias/gilbert-shannon-reeds/pull/66) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
 
 <!--END_SECTION:activity-->
 
