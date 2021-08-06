@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#74](https://github.com/proinsias/proinsias.github.io/pull/74) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
-2. 🎉 Merged PR [#19](https://github.com/proinsias/travis-lint/pull/19) in [proinsias/travis-lint](https://github.com/proinsias/travis-lint)
-3. 🎉 Merged PR [#260](https://github.com/proinsias/keras_tutorials/pull/260) in [proinsias/keras_tutorials](https://github.com/proinsias/keras_tutorials)
-4. 🎉 Merged PR [#64](https://github.com/proinsias/gilbert-shannon-reeds/pull/64) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
-5. 🎉 Merged PR [#66](https://github.com/proinsias/gilbert-shannon-reeds/pull/66) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
+1. 🎉 Merged PR [#25](https://github.com/proinsias/mac-playbook/pull/25) in [proinsias/mac-playbook](https://github.com/proinsias/mac-playbook)
+2. 🎉 Merged PR [#12](https://github.com/proinsias/detection-and-exploration/pull/12) in [proinsias/detection-and-exploration](https://github.com/proinsias/detection-and-exploration)
+3. 🎉 Merged PR [#11](https://github.com/proinsias/infrared-observations/pull/11) in [proinsias/infrared-observations](https://github.com/proinsias/infrared-observations)
+4. 🎉 Merged PR [#18](https://github.com/proinsias/homebrew-drivers-old/pull/18) in [proinsias/homebrew-drivers-old](https://github.com/proinsias/homebrew-drivers-old)
+5. 🎉 Merged PR [#55](https://github.com/proinsias/find-frequent-bacon-senders/pull/55) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
 
 <!--END_SECTION:activity-->
 
