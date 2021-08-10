@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#18961](https://github.com/scikit-learn/scikit-learn/issues/18961) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
-2. 🎉 Merged PR [#25](https://github.com/proinsias/mac-playbook/pull/25) in [proinsias/mac-playbook](https://github.com/proinsias/mac-playbook)
-3. 🎉 Merged PR [#12](https://github.com/proinsias/detection-and-exploration/pull/12) in [proinsias/detection-and-exploration](https://github.com/proinsias/detection-and-exploration)
-4. 🎉 Merged PR [#11](https://github.com/proinsias/infrared-observations/pull/11) in [proinsias/infrared-observations](https://github.com/proinsias/infrared-observations)
-5. 🎉 Merged PR [#18](https://github.com/proinsias/homebrew-drivers-old/pull/18) in [proinsias/homebrew-drivers-old](https://github.com/proinsias/homebrew-drivers-old)
+1. 🎉 Merged PR [#596](https://github.com/proinsias/nameshark-vcard/pull/596) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+2. 🎉 Merged PR [#71](https://github.com/proinsias/gilbert-shannon-reeds/pull/71) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
+3. 🎉 Merged PR [#72](https://github.com/proinsias/gilbert-shannon-reeds/pull/72) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
+4. 🎉 Merged PR [#75](https://github.com/proinsias/proinsias.github.io/pull/75) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+5. 🎉 Merged PR [#73](https://github.com/proinsias/whoareyou/pull/73) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
 
 <!--END_SECTION:activity-->
 
