@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#596](https://github.com/proinsias/nameshark-vcard/pull/596) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-2. 🎉 Merged PR [#71](https://github.com/proinsias/gilbert-shannon-reeds/pull/71) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
-3. 🎉 Merged PR [#72](https://github.com/proinsias/gilbert-shannon-reeds/pull/72) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
-4. 🎉 Merged PR [#75](https://github.com/proinsias/proinsias.github.io/pull/75) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
-5. 🎉 Merged PR [#73](https://github.com/proinsias/whoareyou/pull/73) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
+1. 🎉 Merged PR [#73](https://github.com/proinsias/gilbert-shannon-reeds/pull/73) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
+2. 🎉 Merged PR [#75](https://github.com/proinsias/gilbert-shannon-reeds/pull/75) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
+3. 🎉 Merged PR [#77](https://github.com/proinsias/gilbert-shannon-reeds/pull/77) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
+4. 🎉 Merged PR [#76](https://github.com/proinsias/gilbert-shannon-reeds/pull/76) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
+5. 🎉 Merged PR [#76](https://github.com/proinsias/proinsias.github.io/pull/76) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
 
 <!--END_SECTION:activity-->
 
