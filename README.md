@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#56](https://github.com/proinsias/pystan-tutorials/pull/56) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
-2. 🎉 Merged PR [#57](https://github.com/proinsias/pystan-tutorials/pull/57) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
-3. 🎉 Merged PR [#58](https://github.com/proinsias/pystan-tutorials/pull/58) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
-4. 🎉 Merged PR [#59](https://github.com/proinsias/pystan-tutorials/pull/59) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
-5. 🎉 Merged PR [#56](https://github.com/proinsias/find-frequent-bacon-senders/pull/56) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
+1. 🎉 Merged PR [#31](https://github.com/conda-forge/yamllint-feedstock/pull/31) in [conda-forge/yamllint-feedstock](https://github.com/conda-forge/yamllint-feedstock)
+2. 🎉 Merged PR [#26](https://github.com/proinsias/mac-playbook/pull/26) in [proinsias/mac-playbook](https://github.com/proinsias/mac-playbook)
+3. 🎉 Merged PR [#57](https://github.com/proinsias/find-frequent-bacon-senders/pull/57) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
+4. 🎉 Merged PR [#599](https://github.com/proinsias/nameshark-vcard/pull/599) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+5. 🎉 Merged PR [#78](https://github.com/proinsias/gilbert-shannon-reeds/pull/78) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
 
 <!--END_SECTION:activity-->
 
