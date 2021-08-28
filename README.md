@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#61](https://github.com/proinsias/find-frequent-bacon-senders/pull/61) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
-2. 🎉 Merged PR [#27](https://github.com/proinsias/mac-playbook/pull/27) in [proinsias/mac-playbook](https://github.com/proinsias/mac-playbook)
-3. 🎉 Merged PR [#78](https://github.com/proinsias/proinsias.github.io/pull/78) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
-4. 🎉 Merged PR [#58](https://github.com/proinsias/find-frequent-bacon-senders/pull/58) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
-5. 🎉 Merged PR [#59](https://github.com/proinsias/find-frequent-bacon-senders/pull/59) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
+1. 🎉 Merged PR [#79](https://github.com/proinsias/proinsias.github.io/pull/79) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
+2. 🎉 Merged PR [#19](https://github.com/proinsias/copier-python-template/pull/19) in [proinsias/copier-python-template](https://github.com/proinsias/copier-python-template)
+3. 🎉 Merged PR [#61](https://github.com/proinsias/find-frequent-bacon-senders/pull/61) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
+4. 🎉 Merged PR [#27](https://github.com/proinsias/mac-playbook/pull/27) in [proinsias/mac-playbook](https://github.com/proinsias/mac-playbook)
+5. 🎉 Merged PR [#78](https://github.com/proinsias/proinsias.github.io/pull/78) in [proinsias/proinsias.github.io](https://github.com/proinsias/proinsias.github.io)
 
 <!--END_SECTION:activity-->
 
