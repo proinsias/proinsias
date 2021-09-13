@@ -99,11 +99,11 @@ Others?
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#65](https://github.com/proinsias/find-frequent-bacon-senders/pull/65) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
-2. 🗣 Commented on [#87](https://github.com/proinsias/gilbert-shannon-reeds/issues/87) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
-3. 🎉 Merged PR [#89](https://github.com/proinsias/gilbert-shannon-reeds/pull/89) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
-4. 🗣 Commented on [#64](https://github.com/proinsias/pystan-tutorials/issues/64) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
-5. 🎉 Merged PR [#66](https://github.com/proinsias/pystan-tutorials/pull/66) in [proinsias/pystan-tutorials](https://github.com/proinsias/pystan-tutorials)
+1. 🎉 Merged PR [#87](https://github.com/proinsias/whoareyou/pull/87) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
+2. 🎉 Merged PR [#606](https://github.com/proinsias/nameshark-vcard/pull/606) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
+3. 🗣 Commented on [#64](https://github.com/proinsias/find-frequent-bacon-senders/issues/64) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
+4. 🗣 Commented on [#87](https://github.com/proinsias/gilbert-shannon-reeds/issues/87) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
+5. 🗣 Commented on [#87](https://github.com/proinsias/gilbert-shannon-reeds/issues/87) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
 
 <!--END_SECTION:activity-->
 
