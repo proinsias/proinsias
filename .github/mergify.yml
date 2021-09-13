@@ -2,69 +2,24 @@
 pull_request_rules:
   - name: automatic merge on CI success and review
     conditions:
-      - base=master
-      - label!=work-in-progress
-      - check-success=add-recent-github-activity
-      - check-success=update-readme-with-blog
-      - check-success=compress-images
-      - check-success=github-actions
+      - base=main
+      - author~=github-actions
+      - check-success-or-neutral=Check code quality
+      - check-success-or-neutral=GitHub Actions
     actions:
       merge:
         method: merge
         strict: smart
   - name: automatic merge for Dependabot pull requests
     conditions:
-      - author~=^dependabot(|-preview)\[bot\]$
-      - check-success=add-recent-github-activity
-      - check-success=update-readme-with-blog
-      - check-success=compress-images
-      - check-success=github-actions
+      - base=main
+      - author~=dependabot
+      - check-success-or-neutral=Check code quality
+      - check-success-or-neutral=GitHub Actions
     actions:
       merge:
         method: merge
-  - name: automatic merge for ImgBot pull requests
-    conditions:
-      - author=imgbot[bot]
-      - check-success=add-recent-github-activity
-      - check-success=update-readme-with-blog
-      - check-success=compress-images
-      - check-success=github-actions
-    actions:
-      merge:
-        method: merge
-  - name: automatic merge for Snyk pull requests
-    conditions:
-      - title~=^\[Snyk\]
-      - head~=^snyk-fix
-      - check-success~=^security/snyk
-      - check-success=add-recent-github-activity
-      - check-success=update-readme-with-blog
-      - check-success=compress-images
-      - check-success=github-actions
-    actions:
-      merge:
-        method: merge
-  - name: automatic merge for Requires.io pull requests
-    conditions:
-      - title~=^\[requires.io\]
-      - head~=^requires-io
-      - check-success=add-recent-github-activity
-      - check-success=update-readme-with-blog
-      - check-success=compress-images
-      - check-success=github-actions
-    actions:
-      merge:
-        method: merge
-  - name: automatic merge for PyUp pull requests
-    conditions:
-      - author=pyup-bot
-      - check-success=add-recent-github-activity
-      - check-success=update-readme-with-blog
-      - check-success=compress-images
-      - check-success=github-actions
-    actions:
-      merge:
-        method: merge
+        strict: smart
   - name: warn on conflicts
     conditions:
       - conflict
@@ -74,7 +29,3 @@ pull_request_rules:
       label:
         add:
           - conflict
-#   - name: delete head branch after merge
-#     conditions: []
-#     actions:
-#       delete_head_branch: {}
