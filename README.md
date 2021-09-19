@@ -60,11 +60,13 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Git: Clone a specific branch](https://proinsias.github.io/til/git-clone-a-specific-branch/)
 - [Nix: Streaming gsutil transfers](https://proinsias.github.io/til/nix-streaming-gsutil-transfers/)
 - [SQL: Calculate percentage of column](https://proinsias.github.io/til/sql-calculate-percentage-of-column/)
 - [SQL: Select a random sample](https://proinsias.github.io/til/sql-select-a-random-sample/)
 - [Pandas: Split string column into separate columns](https://proinsias.github.io/%3Ccategories%3E/pandas-split-string-column-into-separate-columns/)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
@@ -94,18 +96,6 @@ Others?
 [GitHub Profile Summary](https://profile-summary-for-github.com/user/proinsias)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=proinsias)](https://github.com/ryo-ma/github-profile-trophy)
-
-### Recent Activity
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#87](https://github.com/proinsias/whoareyou/pull/87) in [proinsias/whoareyou](https://github.com/proinsias/whoareyou)
-2. 🎉 Merged PR [#606](https://github.com/proinsias/nameshark-vcard/pull/606) in [proinsias/nameshark-vcard](https://github.com/proinsias/nameshark-vcard)
-3. 🗣 Commented on [#64](https://github.com/proinsias/find-frequent-bacon-senders/issues/64) in [proinsias/find-frequent-bacon-senders](https://github.com/proinsias/find-frequent-bacon-senders)
-4. 🗣 Commented on [#87](https://github.com/proinsias/gilbert-shannon-reeds/issues/87) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
-5. 🗣 Commented on [#87](https://github.com/proinsias/gilbert-shannon-reeds/issues/87) in [proinsias/gilbert-shannon-reeds](https://github.com/proinsias/gilbert-shannon-reeds)
-
-<!--END_SECTION:activity-->
 
 ## 😜Here's a Joke for you:
 
