@@ -60,13 +60,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Git: Clone a specific branch](https://proinsias.github.io/til/git-clone-a-specific-branch/)
 - [Nix: Streaming gsutil transfers](https://proinsias.github.io/til/nix-streaming-gsutil-transfers/)
 - [SQL: Calculate percentage of column](https://proinsias.github.io/til/sql-calculate-percentage-of-column/)
 - [SQL: Select a random sample](https://proinsias.github.io/til/sql-select-a-random-sample/)
 - [Pandas: Split string column into separate columns](https://proinsias.github.io/%3Ccategories%3E/pandas-split-string-column-into-separate-columns/)
-
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
