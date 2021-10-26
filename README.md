@@ -60,11 +60,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Git: Clone a specific branch](https://proinsias.github.io/til/git-clone-a-specific-branch/)
-- [Nix: Streaming gsutil transfers](https://proinsias.github.io/til/nix-streaming-gsutil-transfers/)
-- [SQL: Calculate percentage of column](https://proinsias.github.io/til/sql-calculate-percentage-of-column/)
-- [SQL: Select a random sample](https://proinsias.github.io/til/sql-select-a-random-sample/)
-- [Pandas: Split string column into separate columns](https://proinsias.github.io/%3Ccategories%3E/pandas-split-string-column-into-separate-columns/)
+- [Jupyter: View notebook in terminal](https://proinsias.github.io/tips/jupyter-view-notebook-in-terminal/)
+- [Nix: Play with jq with jq-play](https://proinsias.github.io/tips/nix-play-with-jq-with-jq-play/)
+- [Jupyter: Trust notebook from command line](https://proinsias.github.io/til/jupyter-trust-notebook-from-command-line/)
+- [Match arguments to help text](https://proinsias.github.io/tips/match-arguments-to-help-text/)
+- [HTTP: Simulate unexpected network conditions with deelay.me](https://proinsias.github.io/tips/http-simulate-unexpected-network-conditions-with-deelay-me/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
