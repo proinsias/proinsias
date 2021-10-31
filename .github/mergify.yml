@@ -1,4 +1,10 @@
 ---
+queue_rules:
+  - name: default
+    conditions:
+      # Conditions to get out of the queue (= merged)
+      - check-success-or-neutral=Deadpendency Check
+
 pull_request_rules:
   - name: automatic merge on CI success and review
     conditions:
@@ -6,18 +12,18 @@ pull_request_rules:
       - author~=github-actions
       - check-success-or-neutral=Deadpendency Check
     actions:
-      merge:
+      queue:
         method: merge
-        strict: smart
+        name: default
   - name: automatic merge for Dependabot pull requests
     conditions:
       - base=main
       - author~=dependabot
       - check-success-or-neutral=Deadpendency Check
     actions:
-      merge:
+      queue:
         method: merge
-        strict: smart
+        name: default
   - name: warn on conflicts
     conditions:
       - conflict
