@@ -3,8 +3,8 @@ name: Add Latest Blog Posts
 
 on:
   schedule:
-    - cron: 0 0 * * *  # every day at midnight
-  workflow_dispatch:  # Run workflow manually directly via the Github Actions Workflow page.
+    - cron: 0 0 * * * # every day at midnight
+  workflow_dispatch: # Run workflow manually directly via the Github Actions Workflow page.
 
 jobs:
   update-readme-with-blog:
