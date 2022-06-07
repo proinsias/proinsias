@@ -60,7 +60,8 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Using 1password Gpg And Git For Seamless Commit Signing](https://proinsias.github.io/git-using-1password-gpg-and-git-for-seamless-commit-signing/)
+
+- [Git Using 1password Gpg And Git For Seamless Commit Signing](https://proinsias.github.io/til/git-using-1password-gpg-and-git-for-seamless-commit-signing/)
 - [Jupyter: View notebook in terminal](https://proinsias.github.io/tips/jupyter-view-notebook-in-terminal/)
 - [Nix: Play with jq with jq-play](https://proinsias.github.io/tips/nix-play-with-jq-with-jq-play/)
 - [Jupyter: Trust notebook from command line](https://proinsias.github.io/til/jupyter-trust-notebook-from-command-line/)
