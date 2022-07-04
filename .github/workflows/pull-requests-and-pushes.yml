@@ -26,7 +26,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Detect Secrets
-        uses: reviewdog/action-detect-secrets@v0.10
+        uses: reviewdog/action-detect-secrets@v0.11
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           reporter: github-pr-review
