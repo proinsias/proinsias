@@ -12,6 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@1.7.5
+      - uses: gautamkrishnar/blog-post-workflow@1.7.7
         with:
           feed_list: "https://proinsias.github.io/feed.xml"
