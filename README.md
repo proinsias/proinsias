@@ -60,11 +60,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Matplotlib: Determine which backend is in use](https://proinsias.github.io/til/matplotlib-determine-which-backend-is-in-use/)
+- [Python: Implement a custom context manager](https://proinsias.github.io/til/python-implement-a-custom-context-manager/)
 - [Shell: Identify process using a given port number](https://proinsias.github.io/til/shell-identify-process-using-a-given-port-number/)
 - [Shell: Create a file backup with modification date as suffix](https://proinsias.github.io/til/shell-create-a-file-backup-with-modification-date-as-suffix/)
 - [Shell: Dedup PATH variable](https://proinsias.github.io/til/shell-dedup-path-variable/)
-- [Python: Comment regular expressions](https://proinsias.github.io/til/python-comment-regular-expressions/)
-- [Git: Using 1password, gpg and git for seamless commit signing on linux](https://proinsias.github.io/til/git-using-1password-gpg-and-git-for-seamless-commit-signing/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
