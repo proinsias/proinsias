@@ -2,6 +2,16 @@
   "ignorePaths": ["**/.git/**", "[a-z]*/**", ".*", "Gemfile"],
   "language": "en",
   "noConfigSearch": true,
-  "words": ["proinsias"],
+  "words": [
+    "allmodelsarewrong",
+    "Dedup",
+    "Kaggle",
+    "Matplotlib",
+    "numpy",
+    "proinsias",
+    "scikit",
+    "scipy",
+    "Stackoverflow"
+  ],
   "version": "0.2"
 }
