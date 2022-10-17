@@ -1,5 +1,12 @@
 {
-  "ignorePaths": ["**/.git/**", "[a-z]*/**", ".*", "Gemfile"],
+  "ignorePaths": [
+    "**/.git/**",
+    ".*",
+    "Gemfile",
+    "**/megalinter-reports/**",
+    "**/.gitleaksignore",
+    "**/project-words.txt"
+  ],
   "language": "en",
   "noConfigSearch": true,
   "words": [

@@ -60,10 +60,3 @@ jobs:
           stale-pr-label: 'no-pr-activity'
           # yamllint disable-line rule:line-length
           stale-pr-message: 'This pull request is stale because it has been open 30 days with no activity. Remove stale label or comment or this will be closed in 5 days'
-
-      - name: markdown-link-check
-        uses: gaurav-nelson/github-action-markdown-link-check@v1
-        with:
-          check-modified-files-only: 'no'
-          max-depth: 1
-          config-file: 'mlc_config.json'
