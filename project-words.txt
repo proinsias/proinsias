@@ -1,0 +1,10 @@
+textlint
+allmodelsarewrong
+Dedup
+Kaggle
+Matplotlib
+numpy
+proinsias
+scikit
+scipy
+Stackoverflow

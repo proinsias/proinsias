@@ -1,3 +1,5 @@
+<!-- markdownlint-disable first-line-h1 no-inline-html -->
+
 ![Banner](images/banner.png)
 
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Francis
@@ -7,8 +9,14 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 
 ## 😄 About Me
 
--   I'm currently the Senior Data Science Manager at
-    <a href="https://www.hospiq.com"><img src="https://www.hospiq.com/wp-content/uploads/2020/03/HospitalIQ-LOGO-small.png" alt="Hospital IQ" width="100"/></a>,
+<!-- textlint-disable doubled-spaces -->
+<!-- textlint-disable alex -->
+<!-- textlint-disable unexpanded-acronym -->
+<!-- textlint-disable en-capitalization -->
+
+-   I'm the Senior Data Science Manager at
+    <a href="https://www.hospiq.com">
+    <img src="https://www.hospiq.com/wp-content/uploads/2020/03/HospitalIQ-LOGO-small.png" alt="Hospital IQ" width="100"/></a>,
     where our goal is to improve the productivity and happiness of every healthcare worker every day.
 
 -   I try to post occasionally on my personal [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://proinsias.github.io/).
@@ -60,12 +68,18 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Matplotlib: Determine which backend is in use](https://proinsias.github.io/til/matplotlib-determine-which-backend-is-in-use)
-- [Python: Implement a custom context manager](https://proinsias.github.io/til/python-implement-a-custom-context-manager)
-- [Shell: Identify process using a given port number](https://proinsias.github.io/til/shell-identify-process-using-a-given-port-number)
-- [Shell: Create a file backup with modification date as suffix](https://proinsias.github.io/til/shell-create-a-file-backup-with-modification-date-as-suffix)
-- [Shell: Dedup PATH variable](https://proinsias.github.io/til/shell-dedup-path-variable)
+
+-   [Matplotlib: Determine which backend is in use](https://proinsias.github.io/til/matplotlib-determine-which-backend-is-in-use)
+-   [Python: Implement a custom context manager](https://proinsias.github.io/til/python-implement-a-custom-context-manager)
+-   [Shell: Identify process using a given port number](https://proinsias.github.io/til/shell-identify-process-using-a-given-port-number)
+-   [Shell: Create a file backup with modification date as suffix](https://proinsias.github.io/til/shell-create-a-file-backup-with-modification-date-as-suffix)
+-   [Shell: Dedup PATH variable](https://proinsias.github.io/til/shell-dedup-path-variable)
 <!-- BLOG-POST-LIST:END -->
+
+<!-- textlint-enable doubled-spaces -->
+<!-- textlint-enable alex -->
+<!-- textlint-enable unexpanded-acronym -->
+<!-- textlint-enable en-capitalization -->
 
 ## 📫 Contact Info
 

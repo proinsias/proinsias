@@ -7,15 +7,17 @@
     "alex": {
       "allow": []
     },
-    "apostrophe": true,
+    "apostrophe": false,
     "common-misspellings": {
       "ignore": []
     },
     "diacritics": true,
     "doubled-spaces": true,
-    "editorconfig": true,
+    "editorconfig": false,
     "en-capitalization": true,
-    "en-spell": true,
+    "en-spell": {
+      "personalDictionary": ["backend"]
+    },
     "max-number-of-lines": {
       "max": 300
     },
