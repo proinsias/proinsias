@@ -68,11 +68,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Show all Docker build output](https://proinsias.github.io/til/show-all-docker-build-output)
 - [How to put backslash escape sequence into an f-string](https://proinsias.github.io/til/how-to-put-backslash-escape-sequence-into-an-f-string)
 - [Preserve environment when using sudo](https://proinsias.github.io/til/preserve-environment-when-using-sudo)
 - [Force python class to accept only certain attributes](https://proinsias.github.io/til/force-python-class-to-accept-only-certain-attributes)
 - [Crontab-schedule-editor](https://proinsias.github.io/tips/crontab-schedule-editor)
-- [Absurd trolley problems](https://proinsias.github.io/tips/absurd-trolley-problems)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- textlint-enable doubled-spaces -->
