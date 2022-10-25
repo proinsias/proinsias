@@ -26,12 +26,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Install shfmt
-        run: |
-          sudo apt update
-          sudo apt install snapd
-          sudo snap install shfmt
-
       - run: pip install pre-commit
         shell: bash
 
