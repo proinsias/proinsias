@@ -68,11 +68,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Helping people online](https://proinsias.github.io/posts/helping-people-online)
 - [Formatting text paragraphs in python](https://proinsias.github.io/til/formatting-text-paragraphs-in-python)
 - [Starting robust reliable and maintainable bash scripts](https://proinsias.github.io/tips/starting-robust-reliable-and-maintainable-bash-scripts)
 - [How to find broken symlinks](https://proinsias.github.io/til/how-to-find-broken-symlinks)
 - [You Should Be Using Python’s Walrus Operator](https://proinsias.github.io/til/you-should-be-using-python-s-walrus-operator)
-- [Cherry Picking a Range of Commits with Git](https://proinsias.github.io/til/cherry-picking-a-range-of-commits-with-git)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- textlint-enable doubled-spaces -->
