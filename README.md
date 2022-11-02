@@ -68,11 +68,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Force python class to accept only certain attributes](https://proinsias.github.io/til/force-python-class-to-accept-only-certain-attributes)
 - [Crontab schedule editor](https://proinsias.github.io/tips/crontab-schedule-editor)
 - [Absurd trolley problems](https://proinsias.github.io/tips/absurd-trolley-problems)
 - [How to display bash history without line numbers](https://proinsias.github.io/til/how-to-display-bash-history-without-line-numbers)
 - [Helping people online](https://proinsias.github.io/posts/helping-people-online)
-- [Formatting text paragraphs in python](https://proinsias.github.io/til/formatting-text-paragraphs-in-python)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- textlint-enable doubled-spaces -->
