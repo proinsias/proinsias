@@ -68,11 +68,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [100 Years of Data Visualization – It’s Time to Stop Making the Same Mistakes](https://proinsias.github.io/posts/100-years-of-data-visualization-it-s-time-to-stop-making-the-same-mistakes)
 - [Update your command line tools](https://proinsias.github.io/tips/update-your-command-line-tools)
 - [Some useful command line tools](https://proinsias.github.io/til/some-useful-command-line-tools)
 - [Merge multiple JPEGs](https://proinsias.github.io/til/merge-multiple-jpegs)
 - [Force python class to accept only certain attributes](https://proinsias.github.io/til/force-python-class-to-accept-only-certain-attributes)
-- [Absurd trolley problems](https://proinsias.github.io/tips/absurd-trolley-problems)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- textlint-enable doubled-spaces -->
