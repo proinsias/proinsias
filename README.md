@@ -72,7 +72,7 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 - [Update your command line tools](https://proinsias.github.io/tips/update-your-command-line-tools)
 - [Some useful command line tools](https://proinsias.github.io/til/some-useful-command-line-tools)
 - [Merge multiple JPEGs](https://proinsias.github.io/til/merge-multiple-jpegs)
-- [Force python class to accept only certain attributes](https://proinsias.github.io/til/force-python-class-to-accept-only-certain-attributes)
+- [Absurd trolley problems](https://proinsias.github.io/tips/absurd-trolley-problems)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- textlint-enable doubled-spaces -->
