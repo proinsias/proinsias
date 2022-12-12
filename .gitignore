@@ -1,2 +1,3 @@
 megalinter-reports/
 report/
+.pre-commit-trivv-cache
