@@ -68,11 +68,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Put a Christmas tree in your terminal using ctree](https://proinsias.github.io/til/put-a-christmas-tree-in-your-terminal-using-ctree)
 - [100 Years of Data Visualization – It’s Time to Stop Making the Same Mistakes](https://proinsias.github.io/posts/100-years-of-data-visualization-it-s-time-to-stop-making-the-same-mistakes)
 - [Update your command line tools](https://proinsias.github.io/tips/update-your-command-line-tools)
 - [Some useful command line tools](https://proinsias.github.io/til/some-useful-command-line-tools)
 - [Merge multiple JPEGs](https://proinsias.github.io/til/merge-multiple-jpegs)
-- [Absurd trolley problems](https://proinsias.github.io/tips/absurd-trolley-problems)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- textlint-enable doubled-spaces -->
