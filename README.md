@@ -14,10 +14,10 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 <!-- textlint-disable unexpanded-acronym -->
 <!-- textlint-disable en-capitalization -->
 
--   I'm the Senior Data Science Manager at
-    <a href="https://www.hospiq.com">
-    <img src="https://www.hospiq.com/wp-content/uploads/2020/03/HospitalIQ-LOGO-small.png" alt="Hospital IQ" width="100"/></a>,
-    where our goal is to improve the productivity and happiness of every healthcare worker every day.
+-   I'm a Data Science Manager at
+    <a href="https://www.leantaas.com">
+    <img src="https://leantaas.com/wp-content/uploads/2021/06/LeanTaaS-new-logo.svg" alt="LeanTaaS" width="100"/></a>,
+    where our goal is better healthcare through math.
 
 -   I try to post occasionally on my personal [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://proinsias.github.io/).
     Check it out for a list of projects I've been involved in.
