@@ -32,7 +32,7 @@ repos:
             exclude: package.lock.json
 
     - repo: https://github.com/sirosen/texthooks
-      rev: 0.4.0
+      rev: 0.5.0
       hooks:
           - id: fix-smartquotes
           - id: fix-ligatures
@@ -71,7 +71,7 @@ repos:
           - id: shfmt
 
     - repo: https://github.com/Lucas-C/pre-commit-hooks
-      rev: v1.4.1
+      rev: v1.4.2
       hooks:
           - id: remove-crlf
           - id: remove-tabs
@@ -131,12 +131,12 @@ repos:
                 ]
 
     - repo: https://github.com/streetsidesoftware/cspell-cli
-      rev: v6.19.2
+      rev: v6.22.0
       hooks:
           - id: cspell
 
     - repo: https://github.com/mxab/pre-commit-trivy.git
-      rev: v0.3.0
+      rev: v0.4.0
       hooks:
           - id: trivyfs-docker
             args:
