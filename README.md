@@ -68,11 +68,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pets v Cattle: Making a personal disaster recovery plan](https://proinsias.github.io/posts/personal-disaster-recovery/)
 - [Python: repr vs str dunder methods](https://proinsias.github.io/til/python-repr-vs-str-dunder-methods/)
 - [Time downloads using sample files of various sizes](https://proinsias.github.io/til/time-downloads-using-sample-files-of-various-sizes/)
 - [Put a Christmas tree in your terminal using ctree](https://proinsias.github.io/til/put-a-christmas-tree-in-your-terminal-using-ctree/)
 - [100 Years of Data Visualization – It’s Time to Stop Making the Same Mistakes](https://proinsias.github.io/posts/100-years-of-data-visualization-it-s-time-to-stop-making-the-same-mistakes/)
-- [Update your command line tools](https://proinsias.github.io/tips/update-your-command-line-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- textlint-enable doubled-spaces -->
