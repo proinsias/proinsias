@@ -38,7 +38,7 @@ repos:
           - id: fix-ligatures
 
     - repo: https://github.com/pre-commit/mirrors-prettier
-      rev: v3.0.0-alpha.6
+      rev: v3.0.0-alpha.9-for-vscode
       hooks:
           - id: prettier
             stages: [commit]
@@ -53,7 +53,7 @@ repos:
     # YAML
 
     - repo: https://github.com/adrienverge/yamllint
-      rev: v1.30.0
+      rev: v1.31.0
       hooks:
           - id: yamllint
             args: [-c=.yamllint.yml]
@@ -85,7 +85,7 @@ repos:
           - id: check-readthedocs
 
     - repo: https://github.com/zricethezav/gitleaks
-      rev: v8.16.2
+      rev: v8.16.3
       hooks:
           - id: gitleaks
 
@@ -136,7 +136,7 @@ repos:
           - id: cspell
 
     - repo: https://github.com/mxab/pre-commit-trivy.git
-      rev: v0.5.0
+      rev: v0.5.1
       hooks:
           - id: trivyfs-docker
             args:
