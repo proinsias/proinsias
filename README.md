@@ -68,11 +68,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Fun’ asteroid simulator](https://proinsias.github.io/posts/fun-asteroid-simulator/)
-- [Git: Create an empty commit](https://proinsias.github.io/til/git-create-an-empty-commit/)
-- [Pets v Cattle: Making a personal disaster recovery plan](https://proinsias.github.io/posts/personal-disaster-recovery/)
-- [Python: repr vs str dunder methods](https://proinsias.github.io/til/python-repr-vs-str-dunder-methods/)
-- [Time downloads using sample files of various sizes](https://proinsias.github.io/til/time-downloads-using-sample-files-of-various-sizes/)
+- [Articles from arXiv.org as responsive HTML5 web pages](https://proinsias.github.io/tips/articles-from-arxiv-org-as-responsive-html5-web-pages/)
+- [Python: Best way to implement a simple queue](https://proinsias.github.io/til/python-best-way-to-implement-a-simple-queue/)
+- [Git: Show commits in one branch but not another](https://proinsias.github.io/til/git-show-commits-in-one-branch-but-not-another/)
+- [The Most Harmful Inventor in History](https://proinsias.github.io/posts/the-most-harmful-inventor-in-history/)
+- [Jq: Getting all the values of an array](https://proinsias.github.io/til/jq-getting-all-the-values-of-an-array/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- textlint-enable doubled-spaces -->
