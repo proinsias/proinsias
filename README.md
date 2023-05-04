@@ -68,11 +68,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Articles from arXiv.org as responsive HTML5 web pages](https://proinsias.github.io/tips/articles-from-arxiv-org-as-responsive-html5-web-pages/)
-- [Python: Best way to implement a simple queue](https://proinsias.github.io/til/python-best-way-to-implement-a-simple-queue/)
-- [Git: Show commits in one branch but not another](https://proinsias.github.io/til/git-show-commits-in-one-branch-but-not-another/)
-- [The Most Harmful Inventor in History](https://proinsias.github.io/posts/the-most-harmful-inventor-in-history/)
-- [Jq: Getting all the values of an array](https://proinsias.github.io/til/jq-getting-all-the-values-of-an-array/)
+- [Pandas: Display DataFrames side by side](https://proinsias.github.io/til/pandas-display-dataframes-side-by-side/)
+- [Pandas: Transforming two DataFrame columns into a dictionary](https://proinsias.github.io/til/pandas-transforming-two-dataframe-columns-into-a-dictionary/)
+- [How to Tag Docker Images with Git Commit Information](https://proinsias.github.io/til/how-to-tag-docker-images-with-git-commit-information/)
+- [Copy a file with progress and save hash to a different file](https://proinsias.github.io/til/copy-a-file-with-progress-and-save-hash-to-a-different-file/)
+- [Using a single sudo to run multiple &amp;amp;&amp;amp; arguments](https://proinsias.github.io/til/using-a-single-sudo-to-run-multiple-arguments/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- textlint-enable doubled-spaces -->
