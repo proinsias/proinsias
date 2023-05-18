@@ -68,11 +68,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You’re Not Getting Value from Your Data Science](https://proinsias.github.io/tips/Why-you-are-not-getting-value-from-your-data-science/)
+- [List only untracked files](https://proinsias.github.io/tips/git-list-only-untracked-files/)
 - [Pandas: Display DataFrames side by side](https://proinsias.github.io/til/pandas-display-dataframes-side-by-side/)
 - [Pandas: Transforming two DataFrame columns into a dictionary](https://proinsias.github.io/til/pandas-transforming-two-dataframe-columns-into-a-dictionary/)
 - [How to Tag Docker Images with Git Commit Information](https://proinsias.github.io/til/how-to-tag-docker-images-with-git-commit-information/)
-- [Copy a file with progress and save hash to a different file](https://proinsias.github.io/til/copy-a-file-with-progress-and-save-hash-to-a-different-file/)
-- [Using a single sudo to run multiple &amp;amp;&amp;amp; arguments](https://proinsias.github.io/til/using-a-single-sudo-to-run-multiple-arguments/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- textlint-enable doubled-spaces -->
