@@ -14,10 +14,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 <!-- textlint-disable unexpanded-acronym -->
 <!-- textlint-disable en-capitalization -->
 
--   I'm a Data Science Manager at
-    <a href="https://www.leantaas.com">
-    <img src="https://leantaas.com/wp-content/uploads/2021/06/LeanTaaS-new-logo.svg" alt="LeanTaaS" width="100"/></a>,
-    where our goal is better healthcare through math.
+-   I'm a Principal Data Scientist at
+    <a href="https://www.trinet.com">
+    <img src="images/trinet.png" alt="TriNet" width="100"/></a>,
+    who provide full-service HR solutions, so you get time back to focus on your business,
+    your employees get HR support, and your business gains the HR guidance it needs. 
 
 -   I try to post occasionally on my personal [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://proinsias.github.io/).
     Check it out for a list of projects I've been involved in.
