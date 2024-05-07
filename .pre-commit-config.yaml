@@ -1,7 +1,7 @@
 ---
 repos:
     - repo: https://github.com/pre-commit/pre-commit-hooks
-      rev: v4.5.0
+      rev: v4.6.0
       hooks:
           # General
           - id: check-added-large-files
@@ -25,20 +25,20 @@ repos:
     # General
 
     - repo: https://github.com/Yelp/detect-secrets
-      rev: v1.4.0
+      rev: v1.5.0
       hooks:
           - id: detect-secrets
             args: [--baseline, .secrets.baseline]
             exclude: package.lock.json
 
     - repo: https://github.com/sirosen/texthooks
-      rev: 0.6.3
+      rev: 0.6.6
       hooks:
           - id: fix-smartquotes
           - id: fix-ligatures
 
     - repo: https://github.com/pre-commit/mirrors-prettier
-      rev: v4.0.0-alpha.7
+      rev: v4.0.0-alpha.8
       hooks:
           - id: prettier
             stages: [commit]
@@ -53,7 +53,7 @@ repos:
     # YAML
 
     - repo: https://github.com/adrienverge/yamllint
-      rev: v1.33.0
+      rev: v1.35.1
       hooks:
           - id: yamllint
             args: [-c=.yamllint.yml]
@@ -71,26 +71,26 @@ repos:
           - id: shfmt
 
     - repo: https://github.com/Lucas-C/pre-commit-hooks
-      rev: v1.5.4
+      rev: v1.5.5
       hooks:
           - id: remove-crlf
           - id: remove-tabs
             exclude: .git/COMMIT_EDITMSG
 
     - repo: https://github.com/sirosen/check-jsonschema
-      rev: 0.27.3
+      rev: 0.28.2
       hooks:
           - id: check-github-actions
           - id: check-github-workflows
           - id: check-readthedocs
 
     - repo: https://github.com/zricethezav/gitleaks
-      rev: v8.18.1
+      rev: v8.18.2
       hooks:
           - id: gitleaks
 
     - repo: https://github.com/rhysd/actionlint
-      rev: v1.6.26
+      rev: v1.6.27
       hooks:
           - id: actionlint
 
@@ -131,12 +131,12 @@ repos:
                 ]
 
     - repo: https://github.com/streetsidesoftware/cspell-cli
-      rev: v8.1.1
+      rev: v8.8.0
       hooks:
           - id: cspell
 
     - repo: https://github.com/mxab/pre-commit-trivy.git
-      rev: v0.9.0
+      rev: v0.12.0
       hooks:
           - id: trivyfs-docker
             args:
