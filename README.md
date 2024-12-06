@@ -89,7 +89,7 @@ How to reach me:
 <a href="https://mailhide.io/e/fTv414zF/"><img alt="Reveal Email" src="https://img.shields.io/badge/reveal%20email-2a8?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a rel="me" href="https://keyoxide.org/hkp/74b07ae5ffb55bfc2fb8b25e8dbe5f9a6519d396"><img alt="Keyoxide" src="https://img.shields.io/badge/keyoxide-166BFF?logo=keystone&logoColor=white&style=for-the-badge"></a>
 <a rel="me" href="https://www.linkedin.com/in/francistodonovan/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-<a rel="me" href="https://medium.com/@proinsias"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white"></a>
+<a rel="me" href="https://medium.com/@proinsias"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white&style=for-the-badge"></a>
 <a rel="me" href="https://twit.social/@francis"><img height="30" alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white&style=for-the-badge"></a>
 </p>
 
