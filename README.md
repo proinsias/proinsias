@@ -69,11 +69,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Declare your python dependencies within your Jupyter notebook](https://proinsias.github.io/posts/declare-your-python-dependencies-within-your-jupyter-notebook/)
+- [Why you should really prepare for your one-on-ones](https://proinsias.github.io/posts/why-you-should-really-prepare-for-your-one-on-ones/)
 - [Why You’re Not Getting Value from Your Data Science](https://proinsias.github.io/tips/Why-you-are-not-getting-value-from-your-data-science/)
 - [List only untracked files](https://proinsias.github.io/tips/git-list-only-untracked-files/)
 - [Pandas: Display DataFrames side by side](https://proinsias.github.io/til/pandas-display-dataframes-side-by-side/)
-- [Pandas: Transforming two DataFrame columns into a dictionary](https://proinsias.github.io/til/pandas-transforming-two-dataframe-columns-into-a-dictionary/)
-- [How to Tag Docker Images with Git Commit Information](https://proinsias.github.io/til/how-to-tag-docker-images-with-git-commit-information/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- textlint-enable doubled-spaces -->
