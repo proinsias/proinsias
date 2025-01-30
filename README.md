@@ -1,5 +1,3 @@
-<!-- markdownlint-disable first-line-h1 no-inline-html -->
-
 ![Banner](images/banner.png)
 
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Francis
@@ -9,16 +7,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 
 ## 😄 About Me
 
-<!-- textlint-disable doubled-spaces -->
-<!-- textlint-disable alex -->
-<!-- textlint-disable unexpanded-acronym -->
-<!-- textlint-disable en-capitalization -->
-
 -   I'm a Principal Data Scientist at
     <a href="https://www.trinet.com">
     <img src="images/trinet.png" alt="TriNet" width="100"/></a>,
     who provide full-service HR solutions, so you get time back to focus on your business,
-    your employees get HR support, and your business gains the HR guidance it needs. 
+    your employees get HR support, and your business gains the HR guidance it needs.
 
 -   I try to post occasionally on my personal [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://proinsias.github.io/).
     Check it out for a list of projects I've been involved in.
@@ -69,17 +62,13 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Declare your python dependencies within your Jupyter notebook](https://proinsias.github.io/posts/declare-your-python-dependencies-within-your-jupyter-notebook/)
-- [Why you should really prepare for your one-on-ones](https://proinsias.github.io/posts/why-you-should-really-prepare-for-your-one-on-ones/)
-- [Why You’re Not Getting Value from Your Data Science](https://proinsias.github.io/tips/Why-you-are-not-getting-value-from-your-data-science/)
-- [List only untracked files](https://proinsias.github.io/tips/git-list-only-untracked-files/)
-- [Pandas: Display DataFrames side by side](https://proinsias.github.io/til/pandas-display-dataframes-side-by-side/)
-<!-- BLOG-POST-LIST:END -->
 
-<!-- textlint-enable doubled-spaces -->
-<!-- textlint-enable alex -->
-<!-- textlint-enable unexpanded-acronym -->
-<!-- textlint-enable en-capitalization -->
+-   [Declare your python dependencies within your Jupyter notebook](https://proinsias.github.io/posts/declare-your-python-dependencies-within-your-jupyter-notebook/)
+-   [Why you should really prepare for your one-on-ones](https://proinsias.github.io/posts/why-you-should-really-prepare-for-your-one-on-ones/)
+-   [Why You're Not Getting Value from Your Data Science](https://proinsias.github.io/tips/Why-you-are-not-getting-value-from-your-data-science/)
+-   [List only untracked files](https://proinsias.github.io/tips/git-list-only-untracked-files/)
+-   [Pandas: Display DataFrames side by side](https://proinsias.github.io/til/pandas-display-dataframes-side-by-side/)
+<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
 
@@ -113,7 +102,6 @@ Others?
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
 
 <p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=proinsias.proinsias" alt="visitor badge"/>
 <a href="https://github.com/proinsias/proinsias/actions/workflows/blog-post-workflow.yml">
 <img src="https://github.com/proinsias/proinsias/workflows/Add%20Latest%20Blog%20Posts/badge.svg"/>
 </a>
@@ -132,10 +120,9 @@ Others?
 <a href="https://pre-commit.com/">
 <img src="https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white"/>
 </a>
-<a href="https://mergify.io/">
+<a href="https://mergify.com/">
 <img src="https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/proinsias/proinsias&style=flat"/>
 </a>
-<!-- <img src="https://gpvc.arturio.dev/proinsias" alt="profile views"> -->
 </p>
 
 <img src="images/allmodelsarewrong.jpg" alt="All Models are Wrong"/>
