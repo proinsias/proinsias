@@ -48,6 +48,54 @@
           "store_path": "/nix/store/dn02smsl6qn3ra57bx3q9zki4cb1d13b-lychee-0.18.0"
         }
       }
+    },
+    "nodePackages.prettier@latest": {
+      "last_modified": "2025-01-25T23:17:58Z",
+      "resolved": "github:NixOS/nixpkgs/b582bb5b0d7af253b05d58314b85ab8ec46b8d19#nodePackages.prettier",
+      "source": "devbox-search",
+      "version": "3.3.3",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/7018mdjp14qr7vf66jwdxvxaxjvl48hn-prettier-3.3.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/7018mdjp14qr7vf66jwdxvxaxjvl48hn-prettier-3.3.3"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/pysxyhskhjjsxiac0ha8zi08p2814rpi-prettier-3.3.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/pysxyhskhjjsxiac0ha8zi08p2814rpi-prettier-3.3.3"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/79qbg2kgcvji7k8whvw9k29cc84wvj3w-prettier-3.3.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/79qbg2kgcvji7k8whvw9k29cc84wvj3w-prettier-3.3.3"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/rrmdwy79qyc61lxmrggvrpmdmrq3zym7-prettier-3.3.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/rrmdwy79qyc61lxmrggvrpmdmrq3zym7-prettier-3.3.3"
+        }
+      }
     }
   }
 }
