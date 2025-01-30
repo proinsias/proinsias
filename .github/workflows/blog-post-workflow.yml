@@ -14,4 +14,4 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@1.8.4
         with:
-          feed_list: 'https://proinsias.github.io/feed.xml'
+          feed_list: "https://proinsias.github.io/feed.xml"
