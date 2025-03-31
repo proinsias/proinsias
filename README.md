@@ -68,7 +68,7 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 - [Why You're Not Getting Value from Your Data Science](https://proinsias.github.io/tips/Why-you-are-not-getting-value-from-your-data-science/)
 - [List only untracked files](https://proinsias.github.io/tips/git-list-only-untracked-files/)
 - [Pandas: Display DataFrames side by side](https://proinsias.github.io/til/pandas-display-dataframes-side-by-side/)
-    <!-- BLOG-POST-LIST:END -->
+      <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
 
