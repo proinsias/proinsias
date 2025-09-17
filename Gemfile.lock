@@ -33,7 +33,7 @@ GEM
     mixlib-shellout (3.2.7)
       chef-utils
     progress (3.6.0)
-    rexml (3.3.9)
+    rexml (3.4.2)
     thor (1.4.0)
     tomlrb (2.0.3)
 
