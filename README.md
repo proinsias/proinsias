@@ -65,7 +65,7 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 - [Writing Code Was Never The Bottleneck](https://proinsias.github.io/posts/writing-code-was-never-the-bottleneck/)
 - [Declare your python dependencies within your Jupyter notebook](https://proinsias.github.io/posts/declare-your-python-dependencies-within-your-jupyter-notebook/)
 - [Why you should really prepare for your one-on-ones](https://proinsias.github.io/posts/why-you-should-really-prepare-for-your-one-on-ones/)
-- [Why You’re Not Getting Value from Your Data Science](https://proinsias.github.io/tips/Why-you-are-not-getting-value-from-your-data-science/)
+- [Why You're Not Getting Value from Your Data Science](https://proinsias.github.io/tips/Why-you-are-not-getting-value-from-your-data-science/)
 - [List only untracked files](https://proinsias.github.io/tips/git-list-only-untracked-files/)
 <!-- BLOG-POST-LIST:END -->
 
