@@ -7,11 +7,10 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 
 ## 😄 About Me
 
-- I'm a Principal Data Scientist at
-  <a href="https://www.trinet.com">
-  <img src="images/trinet.png" alt="TriNet" width="100"/></a>,
-  who provide full-service HR solutions, so you get time back to focus on your business,
-  your employees get HR support, and your business gains the HR guidance it needs.
+- I'm a Senior Staff Data Scientist at
+  <a href="https://www.pearlhealth.com">
+  Pearl Health</a>,
+  where we help providers deliver proactive, high-quality care, **and** get rewarded for keeping patients healthy.
 
 - I try to post occasionally on my personal [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://proinsias.github.io/).
   Check it out for a list of projects I've been involved in.
