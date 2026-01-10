@@ -61,11 +61,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How uv got so fast](https://proinsias.github.io/til/how-uv-got-so-fast/)
 - [Stoicism and the pursuit of a good life](https://proinsias.github.io/stoicism/stoicism-and-the-pursuit-of-a-good-life/)
 - [30 learnings from 30 years as a Python freelancer](https://proinsias.github.io/posts/30-learnings-python-freelancer/)
 - [Writing Code Was Never The Bottleneck](https://proinsias.github.io/posts/writing-code-was-never-the-bottleneck/)
 - [Declare your python dependencies within your Jupyter notebook](https://proinsias.github.io/posts/declare-your-python-dependencies-within-your-jupyter-notebook/)
-- [Why you should really prepare for your one-on-ones](https://proinsias.github.io/posts/why-you-should-really-prepare-for-your-one-on-ones/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
