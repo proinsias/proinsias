@@ -61,7 +61,7 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How uv got so fast](https://proinsias.github.io/til/how-uv-got-so-fast/)
+- [Python: How uv got so fast](https://proinsias.github.io/til/how-uv-got-so-fast/)
 - [Stoicism and the pursuit of a good life](https://proinsias.github.io/stoicism/stoicism-and-the-pursuit-of-a-good-life/)
 - [30 learnings from 30 years as a Python freelancer](https://proinsias.github.io/posts/30-learnings-python-freelancer/)
 - [Writing Code Was Never The Bottleneck](https://proinsias.github.io/posts/writing-code-was-never-the-bottleneck/)
