@@ -30,12 +30,20 @@ repos:
 
     # General
 
-    - repo: https://github.com/Yelp/detect-secrets
-      rev: v1.5.0
+    - repo: https://github.com/lycheeverse/lychee.git
+      rev: nightly
       hooks:
-          - id: detect-secrets
-            args: [--baseline, .secrets.baseline]
-            exclude: package.lock.json
+          - id: lychee
+            args: ["--cache", "--suggest"]
+
+    - repo: https://github.com/sirwart/ripsecrets
+      rev: v0.1.11 # Use latest tag on GitHub
+      hooks:
+          - id: ripsecrets
+          # uncomment to check additional patterns
+          # args:
+          # - --additional-pattern 'mytoken*'
+          # - --additional-pattern 'mykey*'
 
     - repo: https://github.com/sirosen/texthooks
       rev: 0.6.8
