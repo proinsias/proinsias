@@ -5,6 +5,18 @@ ci: # https://pre-commit.ci
     skip: [prettier]
     submodules: false
 
+default_install_hook_types:
+    - commit-msg
+    - prepare-commit-msg
+    - pre-commit
+    - pre-merge-commit
+    - pre-push
+    - pre-rebase
+    - post-checkout
+    - post-commit
+    - post-merge
+    - post-rewrite
+
 repos:
     - repo: https://github.com/pre-commit/pre-commit-hooks
       rev: v6.0.0
@@ -106,10 +118,14 @@ repos:
           - id: check-github-workflows
           - id: check-readthedocs
 
-    - repo: https://github.com/zricethezav/gitleaks
-      rev: v8.30.0
+    - repo: https://github.com/sirwart/ripsecrets
+      rev: v0.1.11 # Use latest tag on GitHub
       hooks:
-          - id: gitleaks
+          - id: ripsecrets
+          # uncomment to check additional patterns
+          # args:
+          # - --additional-pattern 'mytoken*'
+          # - --additional-pattern 'mykey*'
 
     - repo: https://github.com/rhysd/actionlint
       rev: v1.7.11
