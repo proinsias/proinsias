@@ -5,6 +5,18 @@ ci: # https://pre-commit.ci
     skip: [prettier]
     submodules: false
 
+default_install_hook_types:
+    - commit-msg
+    - prepare-commit-msg
+    - pre-commit
+    - pre-merge-commit
+    - pre-push
+    - pre-rebase
+    - post-checkout
+    - post-commit
+    - post-merge
+    - post-rewrite
+
 repos:
     - repo: https://github.com/pre-commit/pre-commit-hooks
       rev: v6.0.0
@@ -30,12 +42,20 @@ repos:
 
     # General
 
-    - repo: https://github.com/Yelp/detect-secrets
-      rev: v1.5.0
+    - repo: https://github.com/lycheeverse/lychee.git
+      rev: nightly
       hooks:
-          - id: detect-secrets
-            args: [--baseline, .secrets.baseline]
-            exclude: package.lock.json
+          - id: lychee
+            args: ["--cache", "--suggest"]
+
+    - repo: https://github.com/sirwart/ripsecrets
+      rev: v0.1.11 # Use latest tag on GitHub
+      hooks:
+          - id: ripsecrets
+          # uncomment to check additional patterns
+          # args:
+          # - --additional-pattern 'mytoken*'
+          # - --additional-pattern 'mykey*'
 
     - repo: https://github.com/sirosen/texthooks
       rev: 0.7.1
@@ -92,18 +112,22 @@ repos:
             exclude: .git/COMMIT_EDITMSG
 
     - repo: https://github.com/sirosen/check-jsonschema
-      rev: 0.36.1
+      rev: 0.36.2
       hooks:
           - id: check-github-actions
           - id: check-github-workflows
           - id: check-readthedocs
 
-    - repo: https://github.com/zricethezav/gitleaks
-      rev: v8.30.0
+    - repo: https://github.com/sirwart/ripsecrets
+      rev: v0.1.11 # Use latest tag on GitHub
       hooks:
-          - id: gitleaks
+          - id: ripsecrets
+          # uncomment to check additional patterns
+          # args:
+          # - --additional-pattern 'mytoken*'
+          # - --additional-pattern 'mykey*'
 
     - repo: https://github.com/rhysd/actionlint
-      rev: v1.7.10
+      rev: v1.7.11
       hooks:
           - id: actionlint
