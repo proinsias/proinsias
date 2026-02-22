@@ -5,9 +5,21 @@ ci: # https://pre-commit.ci
     skip: [prettier]
     submodules: false
 
+default_install_hook_types:
+    - commit-msg
+    - prepare-commit-msg
+    - pre-commit
+    - pre-merge-commit
+    - pre-push
+    - pre-rebase
+    - post-checkout
+    - post-commit
+    - post-merge
+    - post-rewrite
+
 repos:
     - repo: https://github.com/pre-commit/pre-commit-hooks
-      rev: v5.0.0
+      rev: v6.0.0
       hooks:
           # General
           - id: check-added-large-files
@@ -30,15 +42,23 @@ repos:
 
     # General
 
-    - repo: https://github.com/Yelp/detect-secrets
-      rev: v1.5.0
+    - repo: https://github.com/lycheeverse/lychee.git
+      rev: nightly
       hooks:
-          - id: detect-secrets
-            args: [--baseline, .secrets.baseline]
-            exclude: package.lock.json
+          - id: lychee
+            args: ["--cache", "--suggest"]
+
+    - repo: https://github.com/sirwart/ripsecrets
+      rev: v0.1.11 # Use latest tag on GitHub
+      hooks:
+          - id: ripsecrets
+          # uncomment to check additional patterns
+          # args:
+          # - --additional-pattern 'mytoken*'
+          # - --additional-pattern 'mykey*'
 
     - repo: https://github.com/sirosen/texthooks
-      rev: 0.6.8
+      rev: 0.7.1
       hooks:
           - id: fix-smartquotes
           - id: fix-ligatures
@@ -59,7 +79,7 @@ repos:
     # YAML
 
     - repo: https://github.com/adrienverge/yamllint
-      rev: v1.37.1
+      rev: v1.38.0
       hooks:
           - id: yamllint
             args: [-c=.yamllint.yml]
@@ -74,36 +94,40 @@ repos:
           - id: script-must-not-have-extension
 
     - repo: https://github.com/scop/pre-commit-shfmt
-      rev: v3.11.0-1
+      rev: v3.12.0-2
       hooks:
           - id: shfmt
 
     - repo: https://github.com/koalaman/shellcheck-precommit
-      rev: v0.10.0
+      rev: v0.11.0
       hooks:
           - id: shellcheck
             args: [--external-sources, --format=gcc, --shell=bash]
 
     - repo: https://github.com/Lucas-C/pre-commit-hooks
-      rev: v1.5.5
+      rev: v1.5.6
       hooks:
           - id: remove-crlf
           - id: remove-tabs
             exclude: .git/COMMIT_EDITMSG
 
     - repo: https://github.com/sirosen/check-jsonschema
-      rev: 0.33.2
+      rev: 0.36.2
       hooks:
           - id: check-github-actions
           - id: check-github-workflows
           - id: check-readthedocs
 
-    - repo: https://github.com/zricethezav/gitleaks
-      rev: v8.27.2
+    - repo: https://github.com/sirwart/ripsecrets
+      rev: v0.1.11 # Use latest tag on GitHub
       hooks:
-          - id: gitleaks
+          - id: ripsecrets
+          # uncomment to check additional patterns
+          # args:
+          # - --additional-pattern 'mytoken*'
+          # - --additional-pattern 'mykey*'
 
     - repo: https://github.com/rhysd/actionlint
-      rev: v1.7.7
+      rev: v1.7.11
       hooks:
           - id: actionlint
