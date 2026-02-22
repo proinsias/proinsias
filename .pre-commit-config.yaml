@@ -2,7 +2,9 @@
 ci: # https://pre-commit.ci
     autofix_prs: true
     autoupdate_schedule: monthly
-    skip: [prettier]
+    skip:
+      - lychee # Requires rust.
+      - prettier
     submodules: false
 
 default_install_hook_types:
