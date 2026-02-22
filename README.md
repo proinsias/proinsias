@@ -7,11 +7,10 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 
 ## 😄 About Me
 
-- I'm a Principal Data Scientist at
-  <a href="https://www.trinet.com">
-  <img src="images/trinet.png" alt="TriNet" width="100"/></a>,
-  who provide full-service HR solutions, so you get time back to focus on your business,
-  your employees get HR support, and your business gains the HR guidance it needs.
+- I'm a Senior Staff Data Scientist at
+  <a href="https://www.pearlhealth.com">
+  Pearl Health</a>,
+  where we help providers deliver proactive, high-quality care, **and** get rewarded for keeping patients healthy.
 
 - I try to post occasionally on my personal [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://proinsias.github.io/).
   Check it out for a list of projects I've been involved in.
@@ -62,11 +61,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Code Was Never The Bottleneck](https://proinsias.github.io/posts/writing-code-was-never-the-bottleneck/)
-- [Declare your python dependencies within your Jupyter notebook](https://proinsias.github.io/posts/declare-your-python-dependencies-within-your-jupyter-notebook/)
-- [Why you should really prepare for your one-on-ones](https://proinsias.github.io/posts/why-you-should-really-prepare-for-your-one-on-ones/)
-- [Why You're Not Getting Value from Your Data Science](https://proinsias.github.io/tips/Why-you-are-not-getting-value-from-your-data-science/)
-- [List only untracked files](https://proinsias.github.io/tips/git-list-only-untracked-files/)
+- [Using Stoicism to thrive as an IC Data Scientist](https://proinsias.github.io/stoicism/stoic-ic-ds/)
+- [Culture turns strategy into action](https://proinsias.github.io/healthcare/culture-turns-strategy-into-action/)
+- [Python: How uv got so fast](https://proinsias.github.io/til/how-uv-got-so-fast/)
+- [Stoicism and the pursuit of a good life](https://proinsias.github.io/stoicism/stoicism-and-the-pursuit-of-a-good-life/)
+- [30 learnings from 30 years as a Python freelancer](https://proinsias.github.io/posts/30-learnings-python-freelancer/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
