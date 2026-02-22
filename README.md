@@ -7,11 +7,10 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 
 ## 😄 About Me
 
-- I'm a Principal Data Scientist at
-  <a href="https://www.trinet.com">
-  <img src="images/trinet.png" alt="TriNet" width="100"/></a>,
-  who provide full-service HR solutions, so you get time back to focus on your business,
-  your employees get HR support, and your business gains the HR guidance it needs.
+- I'm a Senior Staff Data Scientist at
+  <a href="https://www.pearlhealth.com">
+  Pearl Health</a>,
+  where we help providers deliver proactive, high-quality care, **and** get rewarded for keeping patients healthy.
 
 - I try to post occasionally on my personal [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://proinsias.github.io/).
   Check it out for a list of projects I've been involved in.
@@ -25,7 +24,7 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
       <a href="https://scikit-learn.org/stable/index.html"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=ShieldStyle"/></a>
       <a href="https://jupyter.org/"><img alt="jupyter" src="https://img.shields.io/badge/jupyter-%23F37626?logo=scikit-learn&logoColor=white&style=ShieldStyle"/></a>
       <a href="https://numpy.org/"><img alt="numpy" src="https://img.shields.io/badge/numpy-%23013243?logo=numpy&logoColor=white&style=ShieldStyle"/></a>
-      <a href="https://www.scipy.org/"><img alt="scipy" src="https://img.shields.io/badge/scipy-8CAAE6?logo=scipy&logoColor=white&style=ShieldStyle"/></a>
+      <a href="https://scipy.org/"><img alt="scipy" src="https://img.shields.io/badge/scipy-8CAAE6?logo=scipy&logoColor=white&style=ShieldStyle"/></a>
       <a href="https://spark.apache.org/"><img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache%20spark&logoColor=white&style=ShieldStyle"/></a>
 
     - Programming:
@@ -43,8 +42,8 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 
     - Code Collaboration:
       <a href="https://git-scm.com/"><img alt="git" src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=ShieldStyle"/></a>
-      <a href="https://www.github.com/"><img alt="github" src="https://img.shields.io/badge/github-%23121011?logo=github&logoColor=white&style=ShieldStyle"/></a>
-      <a href="https://www.bitbucket.com/"><img alt="bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3?logo=bitbucket&logoColor=white&style=ShieldStyle"/></a>
+      <a href="https://github.com/"><img alt="github" src="https://img.shields.io/badge/github-%23121011?logo=github&logoColor=white&style=ShieldStyle"/></a>
+      <a href="https://bitbucket.org/"><img alt="bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3?logo=bitbucket&logoColor=white&style=ShieldStyle"/></a>
 
     - Platforms:
       <a href="https://www.apple.com/"><img alt="macOS" src="https://img.shields.io/badge/macOS-000000?logo=macOS&logoColor=white&style=ShieldStyle"/></a>
@@ -52,7 +51,6 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
       <a href="https://www.docker.com/"><img alt="docker" src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=ShieldStyle"/></a>
       <a href="https://aws.amazon.com/"><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=Amazon%20AWS&logoColor=white&style=ShieldStyle"/></a>
       <a href="https://cloud.google.com/"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=Google%20Cloud&logoColor=white&style=ShieldStyle"/></a>
-      <a href="https://travis-ci.com/"><img alt="TravisCI" src="https://img.shields.io/badge/Travis%20CI-%232B2F33?logo=Travis%20CI&logoColor=white&style=ShieldStyle"/></a>
       <a href="https://github.com/features/actions/"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-%232671E5?logo=GitHub%20Actions&logoColor=white&style=ShieldStyle"/></a>
 
     and others.
@@ -62,11 +60,11 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Code Was Never The Bottleneck](https://proinsias.github.io/posts/writing-code-was-never-the-bottleneck/)
-- [Declare your python dependencies within your Jupyter notebook](https://proinsias.github.io/posts/declare-your-python-dependencies-within-your-jupyter-notebook/)
-- [Why you should really prepare for your one-on-ones](https://proinsias.github.io/posts/why-you-should-really-prepare-for-your-one-on-ones/)
-- [Why You're Not Getting Value from Your Data Science](https://proinsias.github.io/tips/Why-you-are-not-getting-value-from-your-data-science/)
-- [List only untracked files](https://proinsias.github.io/tips/git-list-only-untracked-files/)
+- [Using Stoicism to thrive as an IC Data Scientist](https://proinsias.github.io/stoicism/stoic-ic-ds/)
+- [Culture turns strategy into action](https://proinsias.github.io/healthcare/culture-turns-strategy-into-action/)
+- [Python: How uv got so fast](https://proinsias.github.io/til/how-uv-got-so-fast/)
+- [Stoicism and the pursuit of a good life](https://proinsias.github.io/stoicism/stoicism-and-the-pursuit-of-a-good-life/)
+- [30 learnings from 30 years as a Python freelancer](https://proinsias.github.io/posts/30-learnings-python-freelancer/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
@@ -74,7 +72,7 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 How to reach me:
 
 <p align='center'>
-<a href="https://mailhide.io/e/fTv414zF/"><img alt="Reveal Email" src="https://img.shields.io/badge/reveal%20email-2a8?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://mailhide.io/en/e/fTv414zF"><img alt="Reveal Email" src="https://img.shields.io/badge/reveal%20email-2a8?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a rel="me" href="https://keyoxide.org/hkp/74b07ae5ffb55bfc2fb8b25e8dbe5f9a6519d396"><img alt="Keyoxide" src="https://img.shields.io/badge/keyoxide-166BFF?logo=keystone&logoColor=white&style=for-the-badge"></a>
 <a rel="me" href="https://www.linkedin.com/in/francistodonovan/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 <a rel="me" href="https://medium.com/@proinsias"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white&style=for-the-badge"></a>
@@ -88,13 +86,13 @@ Others?
 
 ## 📑 My GitHub Stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=proinsias&count_private=true&show_icons=true)
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=proinsias&count_private=true&show_icons=true) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proinsias)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proinsias) -->
 
 [GitHub Profile Summary](https://profile-summary-for-github.com/user/proinsias)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=proinsias)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=proinsias)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## 😜Here's a Joke for you
 
