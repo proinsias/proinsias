@@ -1,0 +1,14 @@
+# Don't put credentials or other secrets into this shared file!
+[hooks]
+enter = "mise i -q"
+
+[settings]
+env_file = ".env"
+experimental = true
+gpg_verify = true
+idiomatic_version_file_enable_tools = ["python"]
+python.uv_venv_auto = true  # Use uv venv.
+status.missing_tools = "always"
+status.show_env = true
+
+# "lychee@latest", "nodePackages.prettier@latest"
