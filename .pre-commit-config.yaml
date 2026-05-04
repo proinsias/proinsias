@@ -96,7 +96,7 @@ repos:
           - id: script-must-not-have-extension
 
     - repo: https://github.com/scop/pre-commit-shfmt
-      rev: v3.13.0-1
+      rev: v3.13.1-1
       hooks:
           - id: shfmt
 
@@ -114,7 +114,7 @@ repos:
             exclude: .git/COMMIT_EDITMSG
 
     - repo: https://github.com/sirosen/check-jsonschema
-      rev: 0.37.1
+      rev: 0.37.2
       hooks:
           - id: check-github-actions
           - id: check-github-workflows
