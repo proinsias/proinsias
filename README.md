@@ -2,23 +2,22 @@
 
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Francis
 
-Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
-👨‍🔬 researcher, 💻 developer, 🕷️ geek.
+Thanks for checking out the GitHub profile of a 🔭 planet discoverer, 👨‍🔬
+researcher, 💻 developer, 🕷️ geek.
 
 ## 😄 About Me
 
-- I'm a Senior Staff Data Scientist at
-  <a href="https://www.pearlhealth.com">
-  Pearl Health</a>,
-  where we help providers deliver proactive, high-quality care, **and** get rewarded for keeping patients healthy.
+- I'm a Senior Staff Data Scientist at <a href="https://www.pearlhealth.com">
+  Pearl Health</a>, where we help providers deliver proactive, high-quality
+  care, **and** get rewarded for keeping patients healthy.
 
-- I try to post occasionally on my personal [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://proinsias.github.io/).
+- I try to post occasionally on my personal
+  [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://proinsias.github.io/).
   Check it out for a list of projects I've been involved in.
 
 - Pronouns: He/Him
 
 - Skills:
-
     - Data Science, Machine Learning, and Big Data:
       <a href="https://pandas.pydata.org/"><img alt="pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=ShieldStyle"/></a>
       <a href="https://scikit-learn.org/stable/index.html"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=ShieldStyle"/></a>
@@ -55,17 +54,19 @@ Thanks for checking out the GitHub profile of a 🔭 planet discoverer,
 
     and others.
 
-- 🧬 I support Ethical Software Licensing – [DoNoHarm.org](https://firstdonoharm.dev/)
+- 🧬 I support Ethical Software Licensing –
+  [DoNoHarm.org](https://firstdonoharm.dev/)
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Using Stoicism to thrive as an IC Data Scientist](https://proinsias.github.io/stoicism/stoic-ic-ds/)
 - [Culture turns strategy into action](https://proinsias.github.io/healthcare/culture-turns-strategy-into-action/)
 - [Python: How uv got so fast](https://proinsias.github.io/til/how-uv-got-so-fast/)
 - [Stoicism and the pursuit of a good life](https://proinsias.github.io/stoicism/stoicism-and-the-pursuit-of-a-good-life/)
 - [30 learnings from 30 years as a Python freelancer](https://proinsias.github.io/posts/30-learnings-python-freelancer/)
-<!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
 
@@ -74,7 +75,7 @@ How to reach me:
 <p align='center'>
 <a href="https://mailhide.io/en/e/fTv414zF"><img alt="Reveal Email" src="https://img.shields.io/badge/reveal%20email-2a8?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a rel="me" href="https://keyoxide.org/hkp/74b07ae5ffb55bfc2fb8b25e8dbe5f9a6519d396"><img alt="Keyoxide" src="https://img.shields.io/badge/keyoxide-166BFF?logo=keystone&logoColor=white&style=for-the-badge"></a>
-<a rel="me" href="https://www.linkedin.com/in/francistodonovan/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+<a rel="me" href="https://www.linkedin.com/in/francistodonovan"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 <a rel="me" href="https://medium.com/@proinsias"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white&style=for-the-badge"></a>
 <a rel="me" href="https://twit.social/@francis"><img height="30" alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white&style=for-the-badge"></a>
 </p>
@@ -111,14 +112,9 @@ Others?
 <a href="https://github.com/proinsias/proinsias/actions/workflows/images.yml">
 <img src="https://github.com/proinsias/proinsias/workflows/Compress%20Images/badge.svg"/>
 </a>
-<a href="https://github.com/proinsias/proinsias/actions/workflows/pull-requests-and-pushes.yml">
-<img src="https://github.com/proinsias/proinsias/workflows/Pull%20Requests%20%26%20Pushes/badge.svg"/>
-</a>
 <a href="https://pre-commit.com/">
 <img src="https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white"/>
 </a>
-<a href="https://mergify.com/">
-<img src="https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/proinsias/proinsias&style=flat"/>
 </a>
 </p>
 
