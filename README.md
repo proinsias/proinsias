@@ -60,13 +60,12 @@ researcher, 💻 developer, 🕷️ geek.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Using Stoicism to thrive as an IC Data Scientist](https://proinsias.github.io/stoicism/stoic-ic-ds/)
 - [Culture turns strategy into action](https://proinsias.github.io/healthcare/culture-turns-strategy-into-action/)
 - [Python: How uv got so fast](https://proinsias.github.io/til/how-uv-got-so-fast/)
 - [Stoicism and the pursuit of a good life](https://proinsias.github.io/stoicism/stoicism-and-the-pursuit-of-a-good-life/)
 - [30 learnings from 30 years as a Python freelancer](https://proinsias.github.io/posts/30-learnings-python-freelancer/)
-  <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Info
 
