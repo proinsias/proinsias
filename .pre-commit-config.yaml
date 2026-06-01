@@ -45,7 +45,7 @@ repos:
     # General
 
     - repo: https://github.com/lycheeverse/lychee.git
-      rev: v0.15.1
+      rev: nightly
       hooks:
           - id: lychee
             args: ["--cache", "--suggest"]
