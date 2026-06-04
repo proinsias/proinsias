@@ -5,5 +5,13 @@ accept = ["100..=103", "200..=299", "403"]
 # Exclude URLs and mail addresses from checking (supports regex).
 # exclude = ['^https://www.linkedin.com']
 
+# Maximum time to wait for an HTTP response in seconds (default: 20).
+# 30 s gives slow or occasionally sluggish hosts more room to respond.
+timeout = 30
+
+# Wait time between two retries of a failed request in seconds (default: 1).
+# 3 s reduces the risk of hammering rate-limited hosts on retry.
+retry_wait_time = 3
+
 # Suggest link replacements for broken links, using a web archive.
 suggest = true
