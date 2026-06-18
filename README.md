@@ -114,7 +114,6 @@ Others?
 <a href="https://pre-commit.com/">
 <img src="https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white"/>
 </a>
-</a>
 </p>
 
 <img src="images/allmodelsarewrong.jpg" alt="All Models are Wrong"/>
