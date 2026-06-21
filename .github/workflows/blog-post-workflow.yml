@@ -6,6 +6,10 @@ on:
     - cron: 0 0 * * * # every day at midnight
   workflow_dispatch: # Run workflow manually directly via the Github Actions Workflow page.
 
+concurrency:
+  group: blog-post
+  cancel-in-progress: true
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
