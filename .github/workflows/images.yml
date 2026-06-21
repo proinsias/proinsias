@@ -21,7 +21,7 @@ jobs:
     timeout-minutes: 15
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       - name: Compress Images
         uses: calibreapp/image-actions@9d037c06280028c110ff61c433ad4dc7d33c3c43 # main
