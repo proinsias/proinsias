@@ -6,6 +6,10 @@ on:
     - cron: "0 6 * * 0"
   workflow_dispatch:
 
+concurrency:
+  group: ci-coach
+  cancel-in-progress: false
+
 jobs:
   ci-coach:
     if: github.event_name == 'schedule' || github.actor == 'proinsias'
