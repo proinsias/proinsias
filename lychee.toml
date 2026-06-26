@@ -3,7 +3,9 @@
 accept = ["100..=103", "200..=299", "403"]
 
 # Exclude URLs and mail addresses from checking (supports regex).
-# exclude = ['^https://www.linkedin.com']
+# LinkedIn blocks automated crawlers and consistently returns 404 for valid
+# profile pages, producing false-positive failures in the link checker.
+exclude = ['^https://www\.linkedin\.com']
 
 # Maximum time to wait for an HTTP response in seconds (default: 20).
 # 30 s gives slow or occasionally sluggish hosts more room to respond.
