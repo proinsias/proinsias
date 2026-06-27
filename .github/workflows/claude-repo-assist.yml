@@ -17,7 +17,7 @@ on:
     types: [created]
 
 concurrency:
-  group: ci-coach
+  group: repo-assist
   cancel-in-progress: false
 
 jobs:
