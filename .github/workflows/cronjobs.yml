@@ -36,7 +36,9 @@ jobs:
           fail: false
 
       - name: Create Issue From File
-        if: steps.lychee.outputs.exit_code != 0
+        if:
+          steps.lychee.outputs.exit_code != 0 && hashFiles('./lychee/out.md') !=
+          ''
         continue-on-error: true
         uses: peter-evans/create-issue-from-file@v6
         with:

@@ -9,6 +9,9 @@ on:
 jobs:
   claude-review:
     if: github.event.pull_request.user.login == 'proinsias'
+    concurrency:
+      group: claude-review-${{ github.event.pull_request.number }}
+      cancel-in-progress: true
 
     runs-on: ubuntu-latest
     timeout-minutes: 15
