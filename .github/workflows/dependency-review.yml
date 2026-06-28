@@ -17,6 +17,7 @@ permissions:
 
 jobs:
   dependency-review:
+    if: github.event.pull_request.user.login == 'proinsias'
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
