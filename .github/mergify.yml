@@ -2,10 +2,8 @@ queue_rules:
   - name: default
     queue_conditions:
       - base=main
-      - check-success-or-neutral=Deadpendency Check
     merge_conditions:
-      - check-success-or-neutral=Deadpendency Check
-      - check-success=Dependency Review
+      - check-success=dependency-review
     merge_method: merge
 
 pull_request_rules:
