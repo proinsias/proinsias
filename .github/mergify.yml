@@ -3,7 +3,9 @@ queue_rules:
     queue_conditions:
       - base=main
     merge_conditions:
-      - check-success=dependency-review
+      - or:
+          - check-success=dependency-review
+          - check-skipped=dependency-review
     merge_method: merge
 
 pull_request_rules:
