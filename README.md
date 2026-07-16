@@ -103,9 +103,6 @@ Others?
 <img src="https://github.com/proinsias/proinsias/workflows/Add%20Latest%20Blog%20Posts/badge.svg"/>
 </a>
 <a href="https://github.com/proinsias/proinsias/actions/workflows/cronjobs.yml">
-<img src="https://github.com/proinsias/proinsias/workflows/Add%20Recent%20Github%20Activity/badge.svg"/>
-</a>
-<a href="https://github.com/proinsias/proinsias/actions/workflows/cronjobs.yml">
 <img src="https://github.com/proinsias/proinsias/workflows/Cron%20Jobs/badge.svg"/>
 </a>
 <a href="https://github.com/proinsias/proinsias/actions/workflows/images.yml">
