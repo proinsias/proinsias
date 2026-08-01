@@ -59,7 +59,7 @@ repos:
       rev: v0.15.1
       hooks:
           - id: lychee
-            args: ["--cache", "--suggest"]
+            args: ["--config", "lychee.toml"]
 
     - repo: https://github.com/sirwart/ripsecrets
       rev: v0.1.11 # Use latest tag on GitHub
