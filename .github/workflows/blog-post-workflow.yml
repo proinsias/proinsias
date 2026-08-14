@@ -19,6 +19,6 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v7
-      - uses: gautamkrishnar/blog-post-workflow@1.9.6
+      - uses: gautamkrishnar/blog-post-workflow@1.9.7
         with:
           feed_list: "https://proinsias.github.io/feed.xml"
