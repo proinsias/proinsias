@@ -9,8 +9,11 @@ cache = true
 # Exclude URLs and mail addresses from checking (supports regex).
 # LinkedIn blocks automated crawlers and consistently returns 404 for valid
 # profile pages, producing false-positive failures in the link checker.
+# web.archive.org rate-limits automated checkers and intermittently returns
+# 503 for valid snapshots, producing false-positive failures.
 exclude = [
-    '^https://www\.linkedin\.com'
+    '^https://www\.linkedin\.com',
+    '^https://web\.archive\.org'
 ]
 
 exclude_path = ["lychee.toml"]
@@ -20,7 +23,7 @@ exclude_loopback = true
 github_token = "${LYCHEE_GITHUB_TOKEN}"
 
 # Show host statistics
-host_stats = true
+# host_stats = true
 
 # Enable the checking of fragments in links, both anchor fragments and text fragments.
 # See <https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Fragment/Text_fragments>
