@@ -27,7 +27,7 @@ jobs:
           fetch-depth: 1
 
       - name: Run Claude Archie
-        uses: anthropics/claude-code-action@fd1c128679612beff4ca259c78021c506e8aa7a7 # v1.0.237
+        uses: anthropics/claude-code-action@58985842b834ed26087302ba27d07bc24ca8697a # v1.0.244
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
