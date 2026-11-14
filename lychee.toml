@@ -11,9 +11,12 @@ cache = true
 # profile pages, producing false-positive failures in the link checker.
 # web.archive.org rate-limits automated checkers and intermittently returns
 # 503 for valid snapshots, producing false-positive failures.
+# The lychee=nightly URL is a `prek autoupdate --repo-exclude-tag` argument in
+# .pre-commit-config.yaml, not a real link.
 exclude = [
     '^https://www\.linkedin\.com',
-    '^https://web\.archive\.org'
+    '^https://web\.archive\.org',
+    '^https://github\.com/lycheeverse/lychee=nightly$'
 ]
 
 exclude_path = ["lychee.toml"]
